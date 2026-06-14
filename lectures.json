@@ -1756,5 +1756,694 @@
         "E. Hepatotoxicity and neurotoxicity."
 ]}
     ]
+  },
+ {
+  "name": "cell wall inhibitors ll",
+  "activeRecall": [
+    {
+      "question": "Which generation of cephalosporins is completely unable to cross the blood-brain barrier under any circumstances?",
+      "answer": "First and Second generations cannot cross the blood-brain barrier."
+    },
+    {
+      "question": "Why is Cefazolin specifically designated as the preferred drug for orthopedic surgical prophylaxis?",
+      "answer": "Because it possesses high tissue avidity and penetrates bone matrices easily."
+    },
+    {
+      "question": "Which specific chemical structural modification allows Ceftriaxone to be administered just once daily?",
+      "answer": "It exhibits an exceptionally long serum half-life due to high plasma protein binding, allowing for once-daily dosing."
+    },
+    {
+      "question": "What fatal interaction occurs when Ceftriaxone is mixed with Ringer's Lactate solution in a pediatric patient?",
+      "answer": "It forms an insoluble microcrystalline precipitate that deposits in the lungs and kidneys, which can cause fatal organ damage."
+    },
+    {
+      "question": "Which two 3rd-generation cephalosporins do not require structural dosage adjustments in patients with end-stage renal failure?",
+      "answer": "Ceftriaxone and Cefoperazone (both undergo primary biliary elimination)."
+    },
+    {
+      "question": "What structural target change prevents 1st, 2nd, 3rd, and 4th-generation cephalosporins from treating MRSA?",
+      "answer": "The acquisition of the mecA gene, which codes for PBP2a, a mutated penicillin-binding protein with low affinity for standard β-lactams."
+    },
+    {
+      "question": "Which specific molecular configuration allows Ceftaroline to effectively treat Methicillin-Resistant Staphylococcus aureus?",
+      "answer": "It was engineered with a side chain that binds directly to the low-affinity PBP2a structural conformation."
+    },
+    {
+      "question": "Name the broad-spectrum cephalosporin generation and representative drug engineered by linking a 1st-generation and 3rd-generation profile.",
+      "answer": "Fourth-generation; Cefepime (combines the Gram-positive profile of Cefalothin with the Gram-negative profile of Ceftazidime)."
+    },
+    {
+      "question": "What specific type of severe central nervous system toxicity is associated with high doses of Cefepime?",
+      "answer": "Non-convulsive status epilepticus."
+    },
+    {
+      "question": "Explain how a \"siderophore cephalosporin\" like Cefiderocol gains entry into highly resistant Gram-negative bacteria.",
+      "answer": "It hijacks the bacterial active iron-uptake transport system by binding extracellular iron, pulling the drug complex through the outer membrane."
+    },
+    {
+      "question": "What is the precise role of Cilastatin when co-administered alongside Imipenem?",
+      "answer": "It inhibits the renal dehydropeptidase I enzyme, preventing the degradation of Imipenem into an inactive, nephrotoxic metabolite."
+    },
+    {
+      "question": "Why should Imipenem/Cilastatin be strictly avoided in patients suffering from bacterial meningitis?",
+      "answer": "It carries a significant increased risk of inducing central nervous system convulsions/seizures."
+    },
+    {
+      "question": "Which specific carbapenem lacks clinical efficacy against Pseudomonas aeruginosa infections?",
+      "answer": "Ertapenem."
+    },
+    {
+      "question": "Why can Aztreonam be safely administered to a patient with a history of documented anaphylactic shock to Penicillin G?",
+      "answer": "It is a monobactam with a distinct monocyclic core that exhibits zero cross-allergenicity with standard bicyclic penicillins."
+    },
+    {
+      "question": "What specific anaerobic bacterial pathogen is uniquely covered by the cephamycins Cefoxitin and Cefotetan?",
+      "answer": "Bacteroides fragilis."
+    },
+    {
+      "question": "Which specific clinical condition, colloquially referred to as \"pseudomembranous colitis,\" is a major superinfection risk with broad-spectrum cephalosporins?",
+      "answer": "Clostridioides difficile colitis (secondary to destruction of healthy intestinal flora)."
+    },
+    {
+      "question": "What mechanism causes severe flushing, sweating, and vomiting when a patient on Cefoperazone consumes alcohol?",
+      "answer": "A Disulfiram-like reaction caused by the inhibition of hepatic aldehyde dehydrogenase, which leads to acetaldehyde accumulation."
+    },
+    {
+      "question": "Which hematologic adverse effect requires tracking via a CBC during long-term administration of 5th-generation cephalosporins?",
+      "answer": "Neutropenia."
+    },
+    {
+      "question": "Why do all cephalosporins fail to show clinical activity against Enterococcus species and atypical pulmonary pathogens?",
+      "answer": "They lack the matching target structures (atypicals lack a cell wall entirely; Enterococci express low-affinity native PBPs)."
+    },
+    {
+      "question": "What specific group of bacterial enzymes can render penicillins inactive while leaving early-generation cephalosporins completely unharmed?",
+      "answer": "Penicillinases."
+    }
+  ],
+  "mcqs": [
+    {
+      "question": "A 3-week-old neonate is brought to the emergency department with lethargy, high fever, and a bulging fontanelle. Lumbar puncture confirms Gram-negative bacterial meningitis. Given the patient's age, the resident must choose an empiric third-generation cephalosporin that crosses the blood-brain barrier safely. Which regimen is the most appropriate choice?",
+      "answer": "B",
+      "options": [
+        "A. Intravenous Ceftriaxone",
+        "B. Intravenous Cefotaxime",
+        "C. Oral Cefixime",
+        "D. Intravenous Cefoperazone",
+        "E. Intramuscular Benzathine Penicillin"
+      ]
+    },
+    {
+      "question": "A 42-year-old female undergoes an elective total hip arthroplasty. The orthopedic surgical team requires an empirical agent for surgical prophylaxis that offers excellent coverage against Gram-positive cocci and is known to penetrate bone tissue easily. Which antibiotic is the first-line standard for this indication?",
+      "answer": "B",
+      "options": [
+        "A. Ceftazidime",
+        "B. Cefazolin",
+        "C. Cefoxitin",
+        "D. Aztreonam",
+        "E. Cefaclor"
+      ]
+    },
+    {
+      "question": "A 68-year-old male is treated in the intensive care unit for an intra-abdominal abscess following a perforated diverticulum. Cultures return positive for Bacteroides fragilis. Which cephalosporin class drug possesses the intrinsic anaerobic coverage required to address this infection?",
+      "answer": "C",
+      "options": [
+        "A. Cephalexin",
+        "B. Cefuroxime",
+        "C. Cefoxitin",
+        "D. Cefepime",
+        "E. Ceftriaxone"
+      ]
+    },
+    {
+      "question": "A 55-year-old male with a history of severe alcohol use disorder is hospitalized for a severe biliary tract infection. He is prescribed intravenous Cefoperazone. On day 4 of treatment, the patient secretly drinks an alcohol-containing beverage brought by a visitor. Within 30 minutes, he experiences severe flushing, throbbing headache, nausea, and vomiting. What is the mechanism of this drug-adverse effect interaction?",
+      "answer": "A",
+      "options": [
+        "A. Accumulation of toxic acetaldehyde via aldehyde dehydrogenase inhibition",
+        "B. Competitive inhibition of cytochrome P450 3A4 enzymes",
+        "C. Acute precipitation of calcium-drug crystals within hepatic sinusoids",
+        "D. Direct competitive binding at central GABA_A receptor complexes",
+        "E. Sudden systemic liberation of histamine from mast cell stores"
+      ]
+    },
+    {
+      "question": "An 82-year-old female with severe renal impairment (Creatinine Clearance 12 mL/min) is receiving empirical intravenous antibiotic therapy for a complicated hospital-acquired infection. Over the next 48 hours, she develops altered mental status and progresses into non-convulsive status epilepticus. Which cephalosporin is most likely associated with this specific neurotoxic presentation?",
+      "answer": "C",
+      "options": [
+        "A. Cefazolin",
+        "B. Cefoxitin",
+        "C. Cefepime",
+        "D. Ceftriaxone",
+        "E. Ceftaroline"
+      ]
+    },
+    {
+      "question": "A 34-year-old male with a history of severe anaphylaxis to Amoxicillin (characterized by facial angioedema and airway compromise) requires antibiotic coverage for a serious respiratory infection caused by Pseudomonas aeruginosa. Which of the following β-lactam agents can be safely administered because it lacks cross-allergenicity with penicillins?",
+      "answer": "D",
+      "options": [
+        "A. Imipenem",
+        "B. Cefepime",
+        "C. Ceftazidime",
+        "D. Aztreonam",
+        "E. Meropenem"
+      ]
+    },
+    {
+      "question": "A 64-year-old female patient develops a severe, complicated skin and soft tissue infection. Biopsy cultures reveal Methicillin-Resistant Staphylococcus aureus (MRSA). The infectious disease team wants to utilize a cephalosporin agent engineered to bind to the low-affinity PBP2a protein expressed by this pathogen. Which agent should be selected?",
+      "answer": "C",
+      "options": [
+        "A. Cefiderocol",
+        "B. Ceftazidime",
+        "C. Ceftaroline",
+        "D. Cefepime",
+        "E. Cefoperazone"
+      ]
+    },
+    {
+      "question": "A 52-year-old female with a history of chronic recurrent UTIs is hospitalized with a severe infection caused by a multi-drug resistant strain of Pseudomonas aeruginosa that produces carbapenemases. The attending physician prescribes a newer \"siderophore cephalosporin\" that acts as a \"Trojan horse\" by binding to extracellular iron to bypass traditional porin channels. Which antibiotic was prescribed?",
+      "answer": "B",
+      "options": [
+        "A. Ceftobiprole",
+        "B. Cefiderocol",
+        "C. Cefepime",
+        "D. Meropenem",
+        "E. Aztreonam"
+      ]
+    },
+    {
+      "question": "A 71-year-old male is treated with high-dose intravenous Imipenem monotherapy for an undiagnosed Gram-negative infection. Within 24 hours of initiating therapy, the clinical pharmacist notes that the drug is being broken down in the kidneys into an inactive, nephrotoxic metabolite because it was not co-administered with an inhibitor of renal metabolism. Which companion drug should have been included?",
+      "answer": "C",
+      "options": [
+        "A. Tazobactam",
+        "B. Sulbactam",
+        "C. Cilastatin",
+        "D. Clavulanic acid",
+        "E. Probenecid"
+      ]
+    },
+    {
+      "question": "A patient develops severe abdominal cramping, watery diarrhea, and a high fever five days after completing a course of oral Cephalexin. A stool assay is positive for Clostridioides difficile toxins. What is the primary cause of this presentation?",
+      "answer": "C",
+      "options": [
+        "A. Direct chemical irritation of the colonic lining by the antibiotic",
+        "B. A Type IV delayed hypersensitivity reaction to the drug's β-lactam ring",
+        "C. Destruction of normal intestinal flora allowing opportunistic pathogens to multiply",
+        "D. Accumulation of toxic acetaldehyde metabolites in the bowel lumen",
+        "E. Insoluble microcrystalline precipitation within the mesenteric arteries"
+      ]
+    },
+    {
+      "question": "A 45-year-old male with a history of penicillin allergy (mild rash) is admitted with community-acquired pneumonia. Sputum culture grows Haemophilus influenzae. The physician decides to use a second-generation cephalosporin. Approximately what percentage of patients with a penicillin allergy will also have cross-reactivity to cephalosporins, according to the lecture?",
+      "answer": "B",
+      "options": [
+        "A. 1%",
+        "B. 10%",
+        "C. 25%",
+        "D. 50%",
+        "E. 75%"
+      ]
+    },
+    {
+      "question": "A 28-year-old female with pyelonephritis is started on intravenous ceftriaxone. Her medical history is significant for a remote penicillin allergy (hives). Which of the following statements regarding ceftriaxone is TRUE based on the lecture?",
+      "answer": "C",
+      "options": [
+        "A. Ceftriaxone is primarily excreted unchanged in the urine and requires dose adjustment in renal failure.",
+        "B. Ceftriaxone cannot cross the blood-brain barrier even in the presence of meningeal inflammation.",
+        "C. Ceftriaxone has a long half-life (24 hours) allowing once-daily dosing, and 40% is excreted in bile.",
+        "D. Ceftriaxone is the safest cephalosporin for use in neonates because it has no adverse effects.",
+        "E. Ceftriaxone has poor penetration into bone and is not used for orthopedic infections."
+      ]
+    },
+    {
+      "question": "A 70-year-old male with diabetes and chronic kidney disease (eGFR 25 mL/min) develops a biliary tract infection. Which third-generation cephalosporin is primarily excreted in the bile and can be used without dose adjustment in this patient with renal failure?",
+      "answer": "B",
+      "options": [
+        "A. Ceftriaxone",
+        "B. Cefoperazone",
+        "C. Cefotaxime",
+        "D. Ceftazidime",
+        "E. Cefixime"
+      ]
+    },
+    {
+      "question": "A 2-day-old neonate in the NICU with suspected sepsis is being evaluated. The attending physician considers using ceftriaxone but recalls a specific warning. Which of the following adverse effects is associated with ceftriaxone use in neonates, making cefotaxime a safer alternative?",
+      "answer": "D",
+      "options": [
+        "A. Dose-dependent nephrotoxicity",
+        "B. Disulfiram-like reaction with alcohol",
+        "C. Severe hemolytic anemia",
+        "D. Biliary sludging with hyperbilirubinemia and calcium precipitation in lungs/kidneys",
+        "E. Prolonged QT interval leading to arrhythmias"
+      ]
+    },
+    {
+      "question": "A 55-year-old male is receiving intravenous cefepime (4th generation cephalosporin) for a hospital-acquired pneumonia. On day 4, he develops confusion, myoclonus, and non-convulsive status epilepticus confirmed by EEG. No other cause is found. Which adverse effect is most likely responsible?",
+      "answer": "A",
+      "options": [
+        "A. Cefepime-associated neurotoxicity",
+        "B. Ceftriaxone-like biliary sludging",
+        "C. First-generation cephalosporin nephrotoxicity",
+        "D. Disulfiram reaction from cefepime",
+        "E. Carbapenem-induced seizure activity"
+      ]
+    },
+    {
+      "question": "A 65-year-old female is treated with intravenous cefoperazone for a Pseudomonas infection. On day 5, she develops easy bruising and oozing from her IV site. Laboratory tests reveal a prolonged PT/INR and low fibrinogen. Her platelet count is normal. What is the most likely mechanism for this bleeding diathesis?",
+      "answer": "B",
+      "options": [
+        "A. Immune-mediated thrombocytopenia",
+        "B. Inhibition of clotting factor II (prothrombin) synthesis in the liver (hypoprothrombinemia)",
+        "C. Direct platelet dysfunction similar to ticarcillin",
+        "D. Disseminated intravascular coagulation from sepsis",
+        "E. Vitamin K deficiency due to gut flora suppression"
+      ]
+    },
+    {
+      "question": "A 34-year-old male is prescribed oral cefuroxime axetil for sinusitis. He asks the pharmacist about drinking alcohol during the course. The pharmacist warns him about a possible disulfiram-like reaction (flushing, nausea, vomiting, headache) if he drinks alcohol while taking certain cephalosporins. Which of the following cephalosporins is most commonly associated with this adverse effect?",
+      "answer": "D",
+      "options": [
+        "A. Cephalexin",
+        "B. Ceftriaxone",
+        "C. Cefepime",
+        "D. Cefoperazone",
+        "E. Ceftaroline"
+      ]
+    },
+    {
+      "question": "A 72-year-old male with a history of MRSA osteomyelitis is being treated with intravenous ceftaroline. After two weeks of therapy, his absolute neutrophil count drops to 400/mm³ (normal 1500-8000). Which adverse effect associated with prolonged use of 5th generation cephalosporins is most likely?",
+      "answer": "C",
+      "options": [
+        "A. Acute interstitial nephritis",
+        "B. Hemolytic anemia",
+        "C. Neutropenia",
+        "D. Hepatotoxicity",
+        "E. Peripheral neuropathy"
+      ]
+    },
+    {
+      "question": "A 30-year-old male is admitted with severe sepsis of unknown origin. He has a known anaphylactic reaction to penicillin. The physician wants to use a beta-lactam antibiotic that is effective against gram-negative aerobes, has no cross-allergy with penicillins, and is relatively non-nephrotoxic and non-ototoxic. Which of the following is the best choice?",
+      "answer": "E",
+      "options": [
+        "A. Imipenem/cilastatin",
+        "B. Ceftazidime",
+        "C. Vancomycin",
+        "D. Gentamicin",
+        "E. Aztreonam"
+      ]
+    },
+    {
+      "question": "A 68-year-old male with a complicated intra-abdominal infection is started on imipenem. To prevent the formation of a nephrotoxic metabolite, imipenem must be co-administered with which of the following drugs?",
+      "answer": "B",
+      "options": [
+        "A. Probenecid",
+        "B. Cilastatin",
+        "C. Sulbactam",
+        "D. Clavulanate",
+        "E. Tazobactam"
+      ]
+    },
+    {
+      "question": "A 45-year-old female with bacterial meningitis is being treated with a carbapenem. The team avoids imipenem due to its increased risk of seizures. Which carbapenem has less risk of convulsions and does not require co-administration with cilastatin?",
+      "answer": "B",
+      "options": [
+        "A. Ertapenem",
+        "B. Meropenem",
+        "C. Doripenem",
+        "D. Imipenem alone",
+        "E. Cilastatin alone"
+      ]
+    },
+    {
+      "question": "A 50-year-old male with hospital-acquired pneumonia caused by a multidrug-resistant (MDR) Pseudomonas aeruginosa is treated with a new siderophore cephalosporin. The drug uses the bacterial iron uptake system to gain entry across the outer membrane. Which of the following is this agent?",
+      "answer": "A",
+      "options": [
+        "A. Cefiderocol",
+        "B. Ceftaroline",
+        "C. Cefepime",
+        "D. Ceftobiprole",
+        "E. Ceftazidime"
+      ]
+    },
+    {
+      "question": "A 25-year-old male is diagnosed with gonorrhea caused by a penicillin-resistant strain of Neisseria gonorrhoeae. He has no drug allergies. Which single-dose IM cephalosporin is the recommended treatment?",
+      "answer": "C",
+      "options": [
+        "A. Cefazolin",
+        "B. Cefuroxime",
+        "C. Ceftriaxone",
+        "D. Cefixime",
+        "E. Cefepime"
+      ]
+    },
+    {
+      "question": "A 55-year-old female is undergoing elective total knee replacement. The surgeon orders a first-generation cephalosporin for surgical prophylaxis because it penetrates bone easily. Which of the following is the most appropriate agent?",
+      "answer": "B",
+      "options": [
+        "A. Cephalexin (oral)",
+        "B. Cefazolin (parenteral)",
+        "C. Ceftriaxone (parenteral)",
+        "D. Cefoxitin (parenteral)",
+        "E. Cefepime (parenteral)"
+      ]
+    },
+    {
+      "question": "A 60-year-old male with a perforated viscus and peritonitis requires an antibiotic with activity against mixed anaerobes including Bacteroides fragilis. Which of the following cephalosporins (cephamycins) is specifically effective against this pathogen?",
+      "answer": "D",
+      "options": [
+        "A. Cephalexin",
+        "B. Cefazolin",
+        "C. Ceftriaxone",
+        "D. Cefoxitin",
+        "E. Cefepime"
+]}
+    ]
+  },
+ {
+  "name": "cell Wall Inhibitors lll",
+  "activeRecall": [
+    {
+      "question": "What is the molecular weight of Vancomycin, and how does this affect its oral absorption and blood-brain barrier penetration?",
+      "answer": "Vancomycin has a high molecular weight of 1450 Da and is water-soluble. Because of this, it is not absorbed orally (only given IV for systemic infections) and cannot pass the blood-brain barrier or enter deep tissues easily."
+    },
+    {
+      "question": "Which drug acts as a structural analog of D-alanine?",
+      "answer": "D-Cycloserine."
+    },
+    {
+      "question": "Why must Vancomycin be administered via slow IV infusion over at least 60 minutes?",
+      "answer": "To prevent infusion-related reactions (Red Man / Red Neck Syndrome caused by rate-dependent histamine release, leading to chills, fever, hypotension, and maculopapular rash) and to minimize the risk of thrombophlebitis."
+    },
+    {
+      "question": "Name two enzymes inhibited by Cycloserine.",
+      "answer": "1. Alanine racemase (converts L-alanine to D-alanine). 2. D-Ala-D-Ala ligase (joins D-alanine to D-alanine)."
+    },
+    {
+      "question": "Which antibiotic is inactivated by pulmonary surfactant and must never be used to treat pneumonia?",
+      "answer": "Daptomycin (Cubicin)."
+    },
+    {
+      "question": "What unique adverse effects differentiate Telavancin from Vancomycin?",
+      "answer": "Taste disturbances and foamy urine."
+    },
+    {
+      "question": "Why can Dalbavancin and Oritavancin be administered just once for a two-week course of therapy?",
+      "answer": "They are long-acting glycopeptides with an exceptionally slow elimination rate, each possessing a half-life of over a week."
+    },
+    {
+      "question": "What is the mechanism of action of Daptomycin?",
+      "answer": "The lipid portion of the drug inserts into the bacterial cell membrane, causing leakage of intracellular cations, loss of membrane polarization, rapid depolarization, and cell death while leaving the bacteria structurally intact ('ghost cells')."
+    },
+    {
+      "question": "Which specific laboratory parameter must be monitored weekly in a patient receiving Daptomycin?",
+      "answer": "Creatine Kinase (CK), due to the risk of skeletal muscle toxicity (muscle pain, weakness, or rhabdomyolysis)."
+    },
+    {
+      "question": "Why is Bacitracin strictly restricted to topical use?",
+      "answer": "It is highly nephrotoxic when administered systemically (parenterally or orally)."
+    },
+    {
+      "question": "Which antibiotic class can cause respiratory arrest via neuromuscular blockade, especially in patients with Myasthenia Gravis?",
+      "answer": "Polymyxins (Polymyxin B and Polymyxin E / Colistin)."
+    },
+    {
+      "question": "What is the primary clinical indication for oral Fosfomycin?",
+      "answer": "Treatment of uncomplicated lower urinary tract infections (cystitis) as a urinary antiseptic, given every 10-14 days."
+    },
+    {
+      "question": "Which organism is the most common cause of pseudomembranous colitis?",
+      "answer": "Clostridioides difficile (C. diff)."
+    },
+    {
+      "question": "Why is Daptomycin safe to use in patients with complete liver failure without dose modification?",
+      "answer": "It is excreted unchanged in the urine and does not rely on hepatic metabolism or clearance."
+    },
+    {
+      "question": "What are the clinical features of Red Man Syndrome, and is it a true IgE-mediated allergy?",
+      "answer": "Clinical features include chills, fever, hypotension, and a maculopapular rash involving the face, neck, and upper torso. It is not a true allergy; it is an infusion-related reaction caused by rapid infusion-induced histamine release."
+    },
+    {
+      "question": "Which two major toxicities are shared by both Vancomycin and Aminoglycosides, making their concurrent use highly dangerous?",
+      "answer": "Ototoxicity and Nephrotoxicity."
+    },
+    {
+      "question": "Name the drug combination commonly used in a bladder irrigant to reduce catheter-associated infections.",
+      "answer": "Polymyxin B combined with Neomycin."
+    },
+    {
+      "question": "What early stage of cell wall synthesis does Bacitracin inhibit?",
+      "answer": "It inhibits the early stage dephosphorylation of peptidoglycan lipid carriers."
+    },
+    {
+      "question": "Against which broad bacterial category are Aminoglycosides completely ineffective due to their requirement for oxygen-dependent transport?",
+      "answer": "Anaerobes."
+    },
+    {
+      "question": "True or False: Vancomycin is highly effective against Gram-negative organisms like Pseudomonas aeruginosa.",
+      "answer": "False. Vancomycin is a narrow-spectrum antibiotic active only against Gram-positive bacteria; it is completely inactive against Gram-negative organisms."
+    }
+  ],
+  "mcqs": [
+    {
+      "question": "A 45-year-old male with a history of intravenous drug use is admitted with a high fever and a new holosystolic murmur. Blood cultures grow Methicillin-Resistant Staphylococcus aureus (MRSA), and transesophageal echocardiography confirms right-sided infective endocarditis. Intravenous Vancomycin and Gentamicin therapy is initiated. After 6 days, the patient remains persistently febrile with positive blood cultures. The medical team decides to switch therapies. Which of the following is the most appropriate next step?",
+      "answer": "B",
+      "options": [
+        "A. Switch to Oral Vancomycin",
+        "B. Switch to IV Daptomycin",
+        "C. Switch to IV Polymyxin B",
+        "D. Switch to Oral Fosfomycin",
+        "E. Increase the dose of IV Gentamicin"
+      ]
+    },
+    {
+      "question": "A 68-year-old female is being treated with a broad-spectrum 3rd-generation cephalosporin for a severe respiratory infection. On day 8 of her hospital stay, she develops severe abdominal cramps and profuse, watery diarrhea. A stool assay confirms the presence of Clostridioides difficile toxins. Which of the following is the most appropriate pharmacological management for this superinfection?",
+      "answer": "C",
+      "options": [
+        "A. Intravenous Vancomycin",
+        "B. Intravenous Daptomycin",
+        "C. Oral Metronidazole or Oral Vancomycin",
+        "D. Oral Fosfomycin",
+        "E. Intravenous Telavancin"
+      ]
+    },
+    {
+      "question": "A 34-year-old male is undergoing treatment for multi-drug resistant tuberculosis (MDR-TB) with an optimized secondary drug regimen including Cycloserine. During a follow-up clinic visit 3 weeks later, his wife notes that he has become acutely paranoid, is experiencing vivid auditory hallucinations, and has developed a coarse resting tremor. What is the underlying biochemical mechanism responsible for this patient's new symptoms?",
+      "answer": "B",
+      "options": [
+        "A. Disruption of bacterial cell membrane potential via cation leakage",
+        "B. Structural analog mimicry of D-alanine leading to central nervous system toxicity",
+        "C. Rate-dependent systemic histamine release from mast cells",
+        "D. Neuromuscular blockade via inhibition of acetylcholine receptors",
+        "E. Intracellular accumulation of phosphonic acid derivatives"
+      ]
+    },
+    {
+      "question": "A 29-year-old woman presents with burning on urination, increased urinary frequency, and suprapubic pain. She has no fever, flank pain, or systemic symptoms, and a urine culture grows Escherichia coli. She emphasizes that she has a highly irregular work schedule and wants a highly effective therapy with maximum convenience. The physician prescribes a single oral dose of an antibiotic that inhibits the very first step of peptidoglycan synthesis. Which drug was prescribed?",
+      "answer": "C",
+      "options": [
+        "A. Bacitracin",
+        "B. Vancomycin",
+        "C. Fosfomycin",
+        "D. Dalbavancin",
+        "E. Colistin"
+      ]
+    },
+    {
+      "question": "A 54-year-old patient with an extensive history of chronic kidney disease and MRSA skin structure infections is initiated on an intravenous cell membrane inhibitor. One week later, the patient complains of progressive, bilateral calf pain and severe muscle weakness. Laboratory values show a serum creatinine of 3.1 mg/dL (elevated from a baseline of 1.8 mg/dL) and a markedly elevated Creatine Kinase (CK) level. Which antibiotic is most likely responsible for this presentation?",
+      "answer": "B",
+      "options": [
+        "A. Vancomycin",
+        "B. Daptomycin",
+        "C. Telavancin",
+        "D. Polymyxin B",
+        "E. Bacitracin"
+      ]
+    },
+    {
+      "question": "An ICU patient with a complicated intra-abdominal infection due to Pseudomonas aeruginosa is receiving a medication that binds to the outer membrane of Gram-negative bacteria to disrupt membrane stability. Following an intraoperative procedure during which vecuronium (a neuromuscular blocker) was administered, the patient experiences prolonged, unexplained apnea and respiratory arrest. Which antibiotic is the most likely culprit?",
+      "answer": "B",
+      "options": [
+        "A. Vancomycin",
+        "B. Polymyxin E (Colistin)",
+        "C. Daptomycin",
+        "D. Oritavancin",
+        "E. Cycloserine"
+      ]
+    },
+    {
+      "question": "During a ward round, a medical student is asked to explain the structural and functional differences between Vancomycin and the newer agents Telavancin, Dalbavancin, and Oritavancin. Which statement provided by the student is entirely accurate?",
+      "answer": "C",
+      "options": [
+        "A. Telavancin has a shorter half-life and duration of action than Vancomycin",
+        "B. Dalbavancin and Oritavancin require multiple daily IV infusions due to rapid renal clearance",
+        "C. Telavancin possesses a unique additional action where it disrupts the bacterial cell membrane function",
+        "D. Unlike Vancomycin, lipoglycopeptides are highly active against Gram-negative anaerobes",
+        "E. Dalbavancin is given orally to treat systemic MRSA infections"
+      ]
+    },
+    {
+      "question": "A 62-year-old male with a history of penicillin allergy is diagnosed with a superficial wound infection following a minor thermal burn on his arm. The physician applies an over-the-counter first-aid ointment containing an antibiotic that inhibits the early-stage dephosphorylation of peptidoglycan lipid carriers. Which drug is the clinician applying?",
+      "answer": "C",
+      "options": [
+        "A. Fosfomycin",
+        "B. Polymyxin B",
+        "C. Bacitracin",
+        "D. Cycloserine",
+        "E. Daptomycin"
+      ]
+    },
+    {
+      "question": "A 38-year-old patient being treated for a severe, multi-drug resistant bacterial infection develops sudden-onset circumoral paresthesia (numbness around the mouth), generalized weakness, and blurred vision. A review of the chart reveals the patient is receiving a drug that binds to the outer membrane of coliform organisms. Which of the following drugs is most consistent with this presentation?",
+      "answer": "B",
+      "options": [
+        "A. Vancomycin",
+        "B. Polymyxin B",
+        "C. Daptomycin",
+        "D. Fosfomycin",
+        "E. Dalbavancin"
+      ]
+    },
+    {
+      "question": "Which of the following antimicrobial agents is correctly matched with its specific pharmacological class and primary spectrum constraint?",
+      "answer": "B",
+      "options": [
+        "A. Bacitracin – Glycopeptide; Active only against Gram-negatives",
+        "B. Daptomycin – Lipopeptide; Inactivated by pulmonary surfactant",
+        "C. Teicoplanin – Polypeptide; High systemic bioavailability orally",
+        "D. Vancomycin – Lipoglycopeptide; Penetrates the BBB effortlessly",
+        "E. Fosfomycin – Phosphonic acid; Effective only for upper tract pyelonephritis"
+      ]
+    },
+    {
+      "question": "A 65-year-old male with a history of methicillin-resistant Staphylococcus aureus (MRSA) bacteremia is started on intravenous vancomycin. Thirty minutes into the first infusion, he develops flushing, pruritus, and an erythematous rash on his face, neck, and upper chest. His blood pressure drops to 90/60 mmHg. He has no respiratory distress or tongue swelling. What is the most appropriate immediate management step?",
+      "answer": "D",
+      "options": [
+        "A. Stop vancomycin permanently and switch to linezolid.",
+        "B. Administer intramuscular epinephrine immediately.",
+        "C. Give intravenous diphenhydramine and continue the infusion at the same rate.",
+        "D. Slow the infusion rate significantly and consider pretreatment with antihistamines for subsequent doses.",
+        "E. Rapidly flush the IV line with normal saline and administer intravenous corticosteroids."
+      ]
+    },
+    {
+      "question": "A 55-year-old female with severe Clostridioides difficile colitis (pseudomembranous colitis) has failed initial oral metronidazole therapy. She has no other significant medical problems. Which of the following antibiotics should be administered orally as second-line therapy, and why is the oral route chosen?",
+      "answer": "C",
+      "options": [
+        "A. Oral metronidazole because it is better absorbed systemically.",
+        "B. Oral vancomycin because it is absorbed systemically and reaches high serum levels.",
+        "C. Oral vancomycin because it is not absorbed orally and acts locally in the intestine.",
+        "D. Intravenous vancomycin because it achieves high colonic concentrations via biliary excretion.",
+        "E. Oral daptomycin because it has excellent activity against anaerobes."
+      ]
+    },
+    {
+      "question": "A 28-year-old male with a urinary tract infection caused by multidrug-resistant Escherichia coli is prescribed fosfomycin trometamol as a single-dose sachet. The patient asks why he only needs one dose every 10–14 days. Which of the following best explains the clinical use of fosfomycin?",
+      "answer": "B",
+      "options": [
+        "A. It has an extremely long half-life of over 100 hours.",
+        "B. It is used only as a urinary antiseptic for uncomplicated cystitis and is ineffective for infections outside the lower urinary tract.",
+        "C. It is a depot formulation that slowly releases drug over two weeks.",
+        "D. It is a prodrug that requires hepatic activation, which takes several days.",
+        "E. It is bacteriostatic and requires prolonged post-antibiotic effect."
+      ]
+    },
+    {
+      "question": "A 72-year-old female with vancomycin-resistant Enterococcus (VRE) bacteremia is initiated on daptomycin. Three days into therapy, she develops progressive muscle pain and weakness. Her creatine kinase (CK) level is 12,000 U/L (normal <200 U/L). Which of the following is the most likely cause, and how should it be managed?",
+      "answer": "D",
+      "options": [
+        "A. Rhabdomyolysis from the underlying sepsis; continue daptomycin and add IV fluids.",
+        "B. Eosinophilic pneumonia from daptomycin; stop drug and start corticosteroids.",
+        "C. Infusion-related reaction; slow the infusion rate and administer antihistamines.",
+        "D. Daptomycin-induced skeletal muscle toxicity; monitor CK weekly and adjust dose for renal function.",
+        "E. Neuroleptic malignant syndrome; discontinue daptomycin and start dantrolene."
+      ]
+    },
+    {
+      "question": "A 50-year-old male with MRSA pneumonia is being considered for daptomycin therapy. The infectious disease consultant advises against daptomycin for this indication. What is the primary reason daptomycin should not be used to treat pneumonia?",
+      "answer": "B",
+      "options": [
+        "A. Daptomycin has no activity against MRSA in the lung.",
+        "B. Daptomycin is inactivated by pulmonary surfactant, leading to therapeutic failure.",
+        "C. Daptomycin causes severe bronchospasm in most patients.",
+        "D. Daptomycin cannot penetrate the alveolar-capillary membrane.",
+        "E. Daptomycin is highly protein-bound and only free drug is active in the lung."
+      ]
+    },
+    {
+      "question": "A 35-year-old female with multidrug-resistant tuberculosis (MDR-TB) is started on cycloserine as part of a salvage regimen. After two weeks, she develops new-onset confusion, tremors, and paranoid delusions. A psychiatric evaluation attributes these symptoms to medication. Which mechanism of action explains cycloserine's efficacy, and which adverse effect is occurring?",
+      "answer": "B",
+      "options": [
+        "A. It binds to the D-Ala-D-Ala terminus of peptidoglycan; neurotoxicity is due to histamine release.",
+        "B. It inhibits alanine racemase and D-Ala-D-Ala ligase; dose-related neuropsychiatric toxicity (psychosis, tremors, convulsions).",
+        "C. It disrupts bacterial cell membrane potential; adverse effect is peripheral neuropathy.",
+        "D. It inhibits transpeptidase enzymes; adverse effect is nephrotoxicity.",
+        "E. It binds to the 50S ribosomal subunit; adverse effect is optic neuritis."
+      ]
+    },
+    {
+      "question": "A 22-year-old male undergoes surgical debridement of a contaminated wound. The surgeon applies a topical triple antibiotic ointment containing bacitracin, neomycin, and polymyxin B. The patient asks why bacitracin is not given orally or intravenously for serious infections. Which of the following is the correct explanation?",
+      "answer": "A",
+      "options": [
+        "A. Systemic bacitracin is highly nephrotoxic, so its use is limited to topical applications.",
+        "B. Bacitracin is inactivated by gastric acid and cannot be absorbed orally.",
+        "C. Bacitracin has no activity against Gram-negative bacteria, making systemic use impractical.",
+        "D. Bacitracin causes severe red man syndrome when given intravenously.",
+        "E. Bacitracin is a bacteriostatic agent and requires high systemic doses that are toxic."
+      ]
+    },
+    {
+      "question": "A 45-year-old male is undergoing general anesthesia for abdominal surgery. He receives a muscle relaxant (rocuronium) during the procedure. The anesthesiologist notices that the patient has myasthenia gravis in his medical history. Postoperatively, the patient receives a bladder irrigation containing polymyxin B. Several hours later, he develops acute respiratory distress and weakness. Which adverse effect of polymyxin B is most likely contributing to this respiratory failure?",
+      "answer": "D",
+      "options": [
+        "A. Anaphylactic reaction",
+        "B. Nephrotoxicity leading to fluid overload",
+        "C. Neurotoxicity presenting as perioral paresthesia",
+        "D. Neuromuscular blockade, especially when given with muscle relaxants or in myasthenia gravis",
+        "E. Eosinophilic pneumonia"
+      ]
+    },
+    {
+      "question": "A 60-year-old female with chronic kidney disease (eGFR 25 mL/min) is being treated for MRSA osteomyelitis with intravenous vancomycin. On day 5, her serum creatinine rises from 1.0 mg/dL to 2.2 mg/dL. A urinalysis shows granular casts and mild proteinuria. No other cause is identified. Which of the following adverse effects is most likely, and what is the primary risk factor?",
+      "answer": "C",
+      "options": [
+        "A. Red man syndrome from rapid infusion",
+        "B. Ototoxicity from high trough levels",
+        "C. Nephrotoxicity, especially when used with other nephrotoxins or in renal impairment",
+        "D. Thrombophlebitis from IV irritation",
+        "E. Bone marrow suppression from prolonged use"
+      ]
+    },
+    {
+      "question": "A 78-year-old male with a complicated skin and soft tissue infection caused by MRSA is admitted to the hospital. He has poor venous access and a history of non-adherence. The physician wants to administer a single intravenous dose that will provide the equivalent of 2 weeks of therapy. Which of the following agents has a half-life of over one week and is suitable for this purpose?",
+      "answer": "D",
+      "options": [
+        "A. Vancomycin",
+        "B. Daptomycin",
+        "C. Linezolid",
+        "D. Oritavancin or dalbavancin",
+        "E. Ceftaroline"
+      ]
+    },
+    {
+      "question": "A 30-year-old female with uncomplicated acute cystitis is allergic to sulfa and cannot take trimethoprim-sulfamethoxazole. The physician prescribes a single dose of fosfomycin trometamol. Which statement about fosfomycin is correct based on the lecture?",
+      "answer": "B",
+      "options": [
+        "A. It is highly effective against Pseudomonas aeruginosa and should be used for pyelonephritis.",
+        "B. It inhibits an early step in bacterial cell wall synthesis (preventing production of peptidoglycan building blocks) and is used only as a urinary antiseptic.",
+        "C. It is a prodrug that requires hepatic metabolism to become active.",
+        "D. It is primarily excreted in the bile and requires dose adjustment in liver disease.",
+        "E. It has a narrow spectrum covering only Gram-positive cocci."
+      ]
+    },
+    {
+      "question": "A 25-year-old male receives a topical ointment containing bacitracin, polymyxin B, and neomycin for a minor skin abrasion. He develops mild local irritation but no systemic effects. Which of the following best explains why polymyxin B is not used systemically?",
+      "answer": "A",
+      "options": [
+        "A. Polymyxin B causes significant nephrotoxicity and neurotoxicity, including neuromuscular blockade.",
+        "B. Polymyxin B is only active against Gram-positive bacteria and has limited systemic utility.",
+        "C. Polymyxin B is inactivated by serum proteins.",
+        "D. Polymyxin B has a very short half-life requiring continuous infusion.",
+        "E. Polymyxin B is primarily an antifungal agent."
+      ]}
+    ]
   }
 ]
