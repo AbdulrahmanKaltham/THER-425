@@ -1,7 +1,7 @@
 
 [
 {
-"name": "Diabetes Mellitus Pharmacology & Clinical Management",
+"name": "Diabetes",
 "activeRecall": [
 {
 "question": "Which anti-diabetic medication class works via a glucose-independent mechanism to close K_ATP channels, carrying the highest risk of prolonged hypoglycemia?",
@@ -184,12 +184,7 @@
 "C. Linagliptin",
 "D. Glyburide"
 ]
-}
-]
 },
-{
-"name": "Diabetes Mellitus I, II, CBD",
-"questions": [
 {
 "question": "A 58-year-old man with a BMI of 32 kg/m² and a history of hypertension presents for a routine health check. He reports no classic symptoms of diabetes. His fasting plasma glucose is 118 mg/dL, and a subsequent 2-hour plasma glucose following a 75g oral glucose tolerance test (OGTT) is 178 mg/dL. His HbA1c is 6.1%. Based on the provided diagnostic criteria, how should his glycemic status be classified?",
 "answer": "E. Both impaired fasting glucose and impaired glucose tolerance",
@@ -329,7 +324,7 @@
 
 
 {
-"name": "Hepatology Pharmacology & Clinical Management",
+"name": "Hepatology",
 "activeRecall": [
 {
 "question": "Which specific vasoactive agent lowers portal pressure in cirrhotic patients without altering systemic blood pressure or causing coronary vasoconstriction?",
@@ -512,12 +507,7 @@
 "C. The failing liver cannot detoxify narcotics, and Morphine will precipitate fatal hepatic coma.",
 "D. Morphine neutralizes the therapeutic ammonia-lowering effects of Lactulose."
 ]
-}
-]
 },
-{
-"name": "Hepatology - Case-Based MCQs",
-"questions": [
 {
 "question": "A 57-year-old man presents with fatigue for several months. He received a blood transfusion in 1982 after a car accident. Physical exam reveals generalized jaundice, a firm nodular liver edge, and a mildly protuberant abdomen with a fluid wave. Labs: mildly elevated transaminases, increased bilirubin (total and direct), hypoalbuminemia, and prolonged PT. What is the most likely diagnosis?",
 "answer": "B. Chronic hepatitis/cirrhosis, decompensated",
