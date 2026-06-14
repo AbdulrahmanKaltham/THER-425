@@ -315,15 +315,10 @@
 "C. Repaglinide inhibits CYP3A4 metabolism of gemfibrozil, causing myopathy.",
 "D. Combined use causes a disulfiram-like reaction.",
 "E. Gemfibrozil displaces repaglinide from albumin, increasing free drug levels."
-]
-}
-]
-},
-
-
-
-
-{
+]}
+    ]
+  },
+  {
 "name": "Hepatology",
 "activeRecall": [
 {
@@ -803,9 +798,963 @@
 "C. Replacement for paracentesis",
 "D. Treatment for acute hepatitis A",
 "E. Cure for hepatorenal syndrome"
+]}
+    ]
+  },
+  {
+  "name": "Emergencies",
+  "activeRecall": [
+    {
+      "question": "Which specific structural property prevents Neostigmine from crossing the blood-brain barrier into the central nervous system?",
+      "answer": "Its status as a permanently charged quaternary ammonium compound, which makes it lipophobic."
+    },
+    {
+      "question": "What are the two distinct pharmacological causes of death in a patient suffering from acute organophosphate insecticide poisoning?",
+      "answer": "Primary cause: Respiratory failure due to intense bronchospasm and excessive bronchial hypersecretion. Secondary cause: Profound bradycardia leading to cardiovascular collapse."
+    },
+    {
+      "question": "Name the diagnostic clinical test historically used to differentiate between a myasthenic crisis and a cholinergic crisis.",
+      "answer": "The Tensilon Test, which utilizes the ultra-short-acting acetylcholinesterase inhibitor Edrophonium."
+    },
+    {
+      "question": "Why must Atropine be administered alongside Neostigmine when reversing a non-depolarizing neuromuscular blocker like d-tubocurarine at the end of surgery?",
+      "answer": "To block the unwanted peripheral muscarinic side effects (such as severe bradycardia, excessive salivation, and bronchospasm) triggered by Neostigmine-induced acetylcholine accumulation, while leaving the therapeutic nicotinic effects at the NMJ unaffected."
+    },
+    {
+      "question": "What is the strict chronological window for the administration of Pralidoxime (2-PAM) before enzyme aging occurs?",
+      "answer": "Within 12 hours of exposure; beyond this timeframe, the chemical bond undergoes irreversible \"aging\"."
+    },
+    {
+      "question": "Which dangerous central adverse effect limits the clinical use of Physostigmine to life-threatening anticholinergic toxicity?",
+      "answer": "The precipitation of generalized tonic-clonic seizures (convulsions) and severe central nervous system stimulation."
+    },
+    {
+      "question": "What traditional clinical mnemonic describes the classic systemic presentation of severe Atropine toxicity?",
+      "answer": "\"Dry as a bone, red as a beet, mad as a hatter.\" (Signifying anhidrosis, cutaneous vasodilation/flushing, and central delirium)."
+    },
+    {
+      "question": "Why is Atropine strictly contraindicated in a patient with a history of acute angle-closure glaucoma?",
+      "answer": "It causes mydriasis, which can further crowd the iridocorneal angle, completely obstructing the drainage of aqueous humor through the canal of Schlemm and causing a dangerous spike in intraocular pressure."
+    },
+    {
+      "question": "Name the specific mixed opioid agonist-antagonist that can worsen respiratory depression if given to an undifferentiated comatose patient.",
+      "answer": "Nalorphine."
+    },
+    {
+      "question": "What toxic intermediate metabolite is responsible for causing centrilobular hepatic necrosis during an Acetaminophen overdose?",
+      "answer": "NAPQI (N-acetyl-p-benzoquinone imine)."
+    },
+    {
+      "question": "Which endogenous protective compound is depleted in the liver when Acetaminophen doses exceed 15 grams?",
+      "answer": "Intracellular Glutathione stores."
+    },
+    {
+      "question": "What specific pharmacological management is used to accelerate the renal clearance of Salicylates in an acute Aspirin overdose?",
+      "answer": "Alkalinization of the urine using intravenous Sodium Bicarbonate, which traps salicylate ions in the renal tubules and prevents reabsorption."
+    },
+    {
+      "question": "Abrupt cessation of long-term therapeutic glucocorticoids precipitates which life-threatening endocrinological emergency?",
+      "answer": "An Acute Adrenal (Addisonian) Crisis, characterized by profound, refractory hypotension and vascular shock."
+    },
+    {
+      "question": "What long-term dosing strategy is used with systemic corticosteroids to minimize suppression of the Hypothalamic-Pituitary-Adrenal (HPA) axis?",
+      "answer": "Alternate-day therapy, where double the total daily dose is administered every other morning to allow the pituitary gland to release endogenous ACTH on the off days."
+    },
+    {
+      "question": "Which drug is the immediate first-line intravenous choice to terminate active, continuous status epilepticus?",
+      "answer": "Intravenous Diazepam or Clonazepam."
+    },
+    {
+      "question": "What genetic metabolic deficiency causes prolonged, life-threatening apnea following a standard dose of Succinylcholine?",
+      "answer": "An inherited, genetic deficiency in plasma cholinesterase (pseudocholinesterase) activity."
+    },
+    {
+      "question": "Name the specific antidote used to manage malignant hyperthermia triggered by volatile anesthetics and Succinylcholine.",
+      "answer": "Intravenous Dantrolene, which blocks calcium release from the ryanodine receptors of the sarcoplasmic reticulum."
+    },
+    {
+      "question": "By what exact anatomical route and location should Adrenaline be delivered during a cardiac arrest emergency if intravenous access cannot be established?",
+      "answer": "Via Intracardiac injection directly into the 3rd or 4th left intercostal space into the interventricular septum."
+    },
+    {
+      "question": "Which heavy metal chelating agent turns a patient's urine a distinctive \"vin-rosé\" color during the treatment of acute toxicity?",
+      "answer": "Deferoxamine (forming the water-soluble complex ferrioxamine excreted via the kidneys)."
+    },
+    {
+      "question": "What is the preferred first-line clinical intervention for managing chronic iron overload (hemochromatosis) in a non-anemic patient?",
+      "answer": "Therapeutic Phlebotomy (regular, structured removal of whole blood units)."
+    }
+  ],
+  "mcqs": [
+    {
+      "question": "A 23-year-old farmworker is brought to the emergency department by his co-workers after being found unresponsive in an agricultural field. On physical examination, the patient is comatose and diaphoretic. His vital signs are: blood pressure 90/60 mmHg, heart rate 42 bpm, and respiratory rate 9 breaths/min. His pupils are noted to be pinpoint (1 mm) bilaterally, and coarse muscle twitching is seen across his chest wall. Copious, frothy secretions are draining from his mouth, and diffuse wheezing is heard on lung auscultation. Which of the following combinations represents the most appropriate immediate pharmacotherapeutic management?",
+      "answer": "B",
+      "options": [
+        "A. Intravenous Physostigmine + Pralidoxime immediately",
+        "B. Intravenous Atropine 2 mg every 5–10 minutes + immediate Pralidoxime infusion",
+        "C. Intravenous Naloxone 0.8 mg + aggressive fluid resuscitation",
+        "D. Inhaled Ipratropium bromide nebulization + intravenous Diazepam"
+      ]
+    },
+    {
+      "question": "A 14-year-old girl with a history of generalized weakness that worsens significantly towards the end of the day is undergoing evaluation for suspected Myasthenia Gravis. The neurologist plans to perform a diagnostic office procedure to confirm the etiology. Baseline muscle strength tests of her extraocular muscles are recorded. A syringe containing an ultra-short-acting acetylcholinesterase inhibitor is prepared, along with a rescue syringe of Atropine at the bedside. Which drug is being administered, and what is its expected duration of action?",
+      "answer": "C",
+      "options": [
+        "A. Neostigmine; 2 to 4 hours",
+        "B. Pyridostigmine; 3 to 6 hours",
+        "C. Edrophonium; 5 minutes",
+        "D. Physostigmine; 30 minutes"
+      ]
+    },
+    {
+      "question": "A 68-year-old male with a history of chronic schizophrenia is brought to the emergency department displaying altered mental status, severe agitation, and vivid visual hallucinations. His current medications include Benzatropine for drug-induced parkinsonism. On exam, his skin is dry and flushed, his axillae are completely devoid of moisture, his heart rate is 122 bpm, and he has marked urinary retention. The medical team suspects severe anticholinergic toxicity. Which of the following agents can reverse both his peripheral tachycardia and his central delirium?",
+      "answer": "B",
+      "options": [
+        "A. Neostigmine",
+        "B. Physostigmine",
+        "C. Pyridostigmine",
+        "D. Edrophonium"
+      ]
+    },
+    {
+      "question": "A 34-year-old female undergoes emergency abdominal surgery under general anesthesia. To facilitate endotracheal intubation, the anesthesiologist administers a standard dose of Succinylcholine. The surgery is completed within 25 minutes, and all volatile anesthetic gases are discontinued. However, the patient fails to resume spontaneous respiration and remains paralyzed. Her core body temperature and end-tidal CO2 remain within normal limits. Which of the following factors best explains this prolonged paralysis?",
+      "answer": "B",
+      "options": [
+        "A. Uncoupling of oxidative phosphorylation in skeletal muscle",
+        "B. A genetic deficiency in plasma pseudocholinesterase activity",
+        "C. Acute upregulation of nicotinic receptors at the neuromuscular junction",
+        "D. Concurrent administration of an aminoglycoside antibiotic"
+      ]
+    },
+    {
+      "question": "A 21-year-old male is brought to the emergency department by paramedics after being found unresponsive in a parking lot. On assessment, he is in a deep coma and does not respond to painful stimuli. His vitals are: blood pressure 100/60 mmHg, heart rate 54 bpm, and respiratory rate 5 breaths/min. His pupils are 1 mm and non-reactive to light. Fresh needle track marks are noted along both forearms. The emergency physician orders an immediate intravenous bolus of Naloxone, resulting in a return of spontaneous respiration and consciousness. Why was Naloxone preferred over Nalorphine in this emergency scenario?",
+      "answer": "B",
+      "options": [
+        "A. Naloxone acts as a selective partial agonist, lowering the risk of withdrawal.",
+        "B. Nalorphine could worsen respiratory depression if the coma was caused by a non-opioid substance.",
+        "C. Naloxone has a longer duration of action than Morphine, preventing relapse.",
+        "D. Nalorphine does not cross the blood-brain barrier."
+      ]
+    },
+    {
+      "question": "A 3-year-old boy is rushed to the emergency department after his mother found him playing with an open bottle of prenatal iron tablets 45 minutes ago. The child has vomited twice, with the emesis containing dark, altered blood, and he is complaining of severe abdominal pain. On examination, he is lethargic, with a heart rate of 140 bpm and a blood pressure of 80/50 mmHg. After initiating aggressive fluid resuscitation and performing gastric lavage, which specific antidote should be administered systemically to bind the absorbed metal?",
+      "answer": "C",
+      "options": [
+        "A. Intravenous Acetylcysteine",
+        "B. Intravenous Pralidoxime",
+        "C. Continuous Intravenous infusion of Deferoxamine",
+        "D. Oral Activated Charcoal"
+      ]
+    },
+    {
+      "question": "A 45-year-old woman with chronic severe asthma is hospitalized for an acute, life-threatening exacerbation (status asthmaticus) that failed to respond to repeated nebulized albuterol. She is started on a high-dose regimen of intravenous hydrocortisone at 100 mg every 8 hours. Her respiratory symptoms improve significantly over the next 4 days, and she is transitioned to oral prednisone before discharge. The intern recommends stopping the corticosteroids immediately since her lungs are clear. What life-threatening complication could result from sudden cessation of this therapy?",
+      "answer": "B",
+      "options": [
+        "A. Acute Malignant Hyperthermia",
+        "B. Acute Adrenal Crisis",
+        "C. Severe Cholinergic Crisis",
+        "D. Accelerated Hepatic Tubular Necrosis"
+      ]
+    },
+    {
+      "question": "A 19-year-old college student is brought to the emergency department by his roommates because he is having a continuous, generalized tonic-clonic seizure. They report that the seizure began approximately 35 minutes ago, and he has not regained consciousness during this time. He has a history of epilepsy but has been non-compliant with his medications. His vital signs show a core body temperature of 39°C and a heart rate of 130 bpm. Which of the following medications should be administered immediately as first-line therapy to terminate his seizure activity?",
+      "answer": "B",
+      "options": [
+        "A. Intravenous Phenytoin 20 mg/kg",
+        "B. Intravenous Diazepam 10 mg given slowly",
+        "C. Slow Intravenous Phenobarbital",
+        "D. Intracardiac Adrenaline injection"
+      ]
+    },
+    {
+      "question": "A 54-year-old woman is brought to the emergency department 14 hours after ingesting approximately 24 grams of Acetaminophen in a suicide attempt. She reports experiencing mild nausea but has no other symptoms. Her initial laboratory evaluation reveals normal serum transaminases (AST and ALT) and normal total bilirubin levels. Which of the following statements explains the clinical status of this patient and guides the next step in her management?",
+      "answer": "B",
+      "options": [
+        "A. The large ingestion was non-toxic, and no antidote is required since her liver enzymes are completely normal.",
+        "B. Hepatic transaminase elevations typically lag behind ingestion by 2 to 6 days; immediate Acetylcysteine therapy must be initiated.",
+        "C. Hemodialysis is the only effective method to clear the drug since the 8-hour window for the antidote has passed.",
+        "D. Intravenous Atropine should be administered immediately to block hepatic muscarinic receptors."
+      ]
+    },
+    {
+      "question": "A 72-year-old male with a history of chronic osteoarthritis presents to the clinic complaining of a constant, high-pitched ringing sensation in both ears (tinnitus), along with a mild headache and dizziness. Upon reviewing his medications, it is noted that he has been taking higher-than-recommended doses of over-the-counter Aspirin to manage his joint pain. His vital signs show a respiratory rate of 26 breaths/min. Blood gas analysis reveals a mild respiratory alkalosis. What is the diagnosis, and what is the appropriate management for this condition?",
+      "answer": "B",
+      "options": [
+        "A. Acute Acetaminophen poisoning; administer intravenous Acetylcysteine",
+        "B. Chronic Salicylate toxicity (Salicylism); stop Aspirin intake immediately",
+        "C. Atropine poisoning; administer intravenous Physostigmine",
+        "D. Irreversible organophosphate exposure; administer Pralidoxime"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "question": "A 68-year-old man with open-angle glaucoma presents to the emergency department with acute eye pain, nausea, and blurred vision. Tonometry reveals intraocular pressure of 32 mmHg (normal 10–21). The ophthalmologist decides to use a direct-acting parasympathomimetic that is clinically useful in acute congestive glaucoma. Which drug is most appropriate?",
+      "answer": "C",
+      "options": [
+        "A. Acetylcholine",
+        "B. Bethanechol",
+        "C. Pilocarpine",
+        "D. Neostigmine",
+        "E. Atropine"
+      ]
+    },
+    {
+      "question": "A 55-year-old woman is given an intravenous injection of acetylcholine during a research study. Within seconds, her blood pressure drops from 130/85 to 90/60 mmHg, and her heart rate decreases from 78 to 52 bpm. Which of the following best explains the observed bradycardia?",
+      "answer": "C",
+      "options": [
+        "A. Direct stimulation of β1-adrenergic receptors",
+        "B. Reflex sympathetic activation due to hypotension",
+        "C. Activation of M2 muscarinic receptors in the sinoatrial node",
+        "D. Inhibition of the renin-angiotensin system",
+        "E. Nicotinic receptor stimulation in the adrenal medulla"
+      ]
+    },
+    {
+      "question": "A medical student asks why acetylcholine is not used therapeutically despite being the natural neurotransmitter. Which property of ACh best explains its lack of clinical utility?",
+      "answer": "B",
+      "options": [
+        "A. It is a tertiary amine that cannot cross the blood-brain barrier",
+        "B. It is poorly absorbed orally and has an extremely short duration of action",
+        "C. It causes only nicotinic effects and no muscarinic effects",
+        "D. It is rapidly degraded by monoamine oxidase",
+        "E. It produces severe CNS toxicity at therapeutic doses"
+      ]
+    },
+    {
+      "question": "A 72-year-old man with neurogenic bladder is started on bethanechol to promote urination. Which of the following is the primary mechanism of this drug?",
+      "answer": "B",
+      "options": [
+        "A. Irreversible inhibition of acetylcholinesterase",
+        "B. Direct stimulation of M3 receptors on the detrusor muscle",
+        "C. Blockade of nicotinic receptors at the neuromuscular junction",
+        "D. Central enhancement of parasympathetic outflow",
+        "E. Antagonism of α1-adrenergic receptors in the bladder neck"
+      ]
+    },
+    {
+      "question": "A 28-year-old woman is brought to the emergency department after ingesting an unknown amount of a tricyclic antidepressant. She is agitated, with a heart rate of 130 bpm, dilated pupils (7 mm), dry skin, and urinary retention. Which drug is the most appropriate antidote?",
+      "answer": "C",
+      "options": [
+        "A. Neostigmine",
+        "B. Atropine",
+        "C. Physostigmine",
+        "D. Pralidoxime",
+        "E. Naloxone"
+      ]
+    },
+    {
+      "question": "A 45-year-old woman with myasthenia gravis presents with worsening dysphagia and ptosis. Her usual dose of pyridostigmine has been unchanged. An edrophonium (Tensilon) test is performed. Within 30 seconds, her muscle strength markedly improves. What is the most appropriate interpretation and next step?",
+      "answer": "B",
+      "options": [
+        "A. Cholinergic crisis – stop pyridostigmine and give atropine",
+        "B. Myasthenic crisis – increase pyridostigmine or add neostigmine",
+        "C. Lambert-Eaton syndrome – order voltage-gated calcium channel antibodies",
+        "D. Overdose of pyridostigmine – administer pralidoxime",
+        "E. Myasthenia gravis not responding – start prednisone"
+      ]
+    },
+    {
+      "question": "A 70-year-old man with Alzheimer's disease is started on rivastigmine. His daughter asks how this drug works. Which mechanism best explains its therapeutic effect?",
+      "answer": "B",
+      "options": [
+        "A. Irreversible inhibition of monoamine oxidase B",
+        "B. Central reversible inhibition of acetylcholinesterase, increasing ACh in synapses",
+        "C. NMDA receptor antagonism",
+        "D. Peripheral muscarinic receptor blockade",
+        "E. Dopamine precursor replacement"
+      ]
+    },
+    {
+      "question": "A 32-year-old woman undergoing surgery receives d-tubocurarine for muscle relaxation. After 45 minutes, she remains completely paralyzed, and the anesthesiologist decides to reverse the block. Which drug should be administered, and what must be co-administered to avoid unwanted effects?",
+      "answer": "B",
+      "options": [
+        "A. Succinylcholine with atropine",
+        "B. Neostigmine with atropine",
+        "C. Edrophonium alone",
+        "D. Pralidoxime with glycopyrrolate",
+        "E. Physostigmine alone"
+      ]
+    },
+    {
+      "question": "A 25-year-old man is diagnosed with myasthenia gravis. The neurologist wants to start a long-acting cholinesterase inhibitor that is more selective for the neuromuscular junction and has fewer gastrointestinal side effects. Which drug is most appropriate for maintenance therapy?",
+      "answer": "C",
+      "options": [
+        "A. Edrophonium",
+        "B. Neostigmine",
+        "C. Pyridostigmine",
+        "D. Physostigmine",
+        "E. Tacrine"
+      ]
+    },
+    {
+      "question": "A 22-year-old woman with known myasthenia gravis on pyridostigmine presents to the ED with sudden respiratory distress and profound weakness. She is barely able to lift her head. Pupils are 2 mm, heart rate 52 bpm, blood pressure 85/50, and she is sweating profusely. An edrophonium test is performed, and her weakness worsens immediately. What is the diagnosis and immediate treatment?",
+      "answer": "B",
+      "options": [
+        "A. Myasthenic crisis – give neostigmine",
+        "B. Cholinergic crisis – stop pyridostigmine, give atropine and pralidoxime",
+        "C. Myasthenic crisis – intubate and give corticosteroids",
+        "D. Cholinergic crisis – increase pyridostigmine to overcome depolarization",
+        "E. Serotonin syndrome – administer cyproheptadine"
+      ]
+    },
+    {
+      "question": "A 30-year-old man with myasthenia gravis misses several doses of his ambenonium due to a gastrointestinal illness. He now presents with drooping eyelids, double vision, and difficulty swallowing. His vital signs are normal, pupils are 4 mm, and there is no sweating or diarrhea. An edrophonium test is performed. Which response confirms the diagnosis of myasthenic crisis?",
+      "answer": "C",
+      "options": [
+        "A. No change in muscle strength",
+        "B. Worsening of ptosis and dysphagia",
+        "C. Transient improvement in eyelid elevation and swallowing",
+        "D. Development of bradycardia and fasciculations",
+        "E. Prolonged apnea requiring intubation"
+      ]
+    },
+    {
+      "question": "A 3-year-old boy is brought to the ED after accidentally drinking from a bottle of insecticide (malathion). He is drooling, has pinpoint pupils, wheezing, and bradycardia. His mother reports that he has had several episodes of diarrhea and vomiting in the last hour. Which of the following best describes the immediate pathophysiological mechanism?",
+      "answer": "B",
+      "options": [
+        "A. Competitive blockade of nicotinic receptors at the NMJ",
+        "B. Irreversible inhibition of acetylcholinesterase leading to ACh accumulation",
+        "C. Direct activation of M3 receptors on salivary glands and smooth muscle",
+        "D. Reversible binding to the anionic site of cholinesterase",
+        "E. Antagonism of GABA receptors in the CNS"
+      ]
+    },
+    {
+      "question": "A 45-year-old farmer is brought to the ED after spraying parathion without protective gear. He is unconscious, with copious oral secretions, wheezing, and muscle fasciculations. His heart rate is 40 bpm, BP 70/40, and pupils are 1 mm. After securing the airway and decontamination, what is the most critical immediate pharmacologic intervention?",
+      "answer": "B",
+      "options": [
+        "A. Naloxone 0.4 mg IV",
+        "B. Atropine 2 mg IV every 5-10 minutes until atropinization",
+        "C. Neostigmine 1 mg IM",
+        "D. Pralidoxime 1 g IV over 30 minutes (only if given within 12 hours)",
+        "E. Diazepam 10 mg IV"
+      ]
+    },
+    {
+      "question": "A patient with severe organophosphate poisoning is receiving atropine and pralidoxime. Six hours after admission, the patient remains in respiratory distress. The attending physician notes that pralidoxime must be administered within a specific time window to be effective. What is the basis for this time limit?",
+      "answer": "B",
+      "options": [
+        "A. Pralidoxime is rapidly degraded by plasma esterases",
+        "B. After \"aging,\" the organophosphate-enzyme bond becomes resistant to reactivation",
+        "C. Atropine competes with pralidoxime for plasma protein binding",
+        "D. The patient develops tolerance to oximes within 12 hours",
+        "E. Pralidoxime only works if given before atropine"
+      ]
+    },
+    {
+      "question": "A 22-year-old man is exposed to sarin gas in a terrorist attack. He develops seizures that do not respond to initial benzodiazepine therapy. Which additional anticonvulsant is recommended by the lecture for organophosphate-induced seizures?",
+      "answer": "C",
+      "options": [
+        "A. Phenytoin",
+        "B. Valproate",
+        "C. Diazepam (repeat dosing)",
+        "D. Levetiracetam",
+        "E. Phenobarbital"
+      ]
+    },
+    {
+      "question": "A 28-year-old man receives succinylcholine for rapid sequence intubation during emergency appendectomy. After 10 minutes, he remains completely paralyzed with absent spontaneous respirations, whereas the expected duration is 5 minutes. Genetic testing later reveals a deficiency of which enzyme?",
+      "answer": "B",
+      "options": [
+        "A. True acetylcholinesterase",
+        "B. Plasma pseudocholinesterase (butyrylcholinesterase)",
+        "C. Monoamine oxidase A",
+        "D. Catechol-O-methyltransferase",
+        "E. Cytochrome P450 2D6"
+      ]
+    },
+    {
+      "question": "A 17-year-old boy undergoes general anesthesia with halothane and succinylcholine for tonsillectomy. Within minutes, his temperature rises to 41°C, his muscles become rigid, and his heart rate is 140 bpm. Arterial blood gas shows severe metabolic acidosis. What is the most appropriate immediate treatment?",
+      "answer": "A",
+      "options": [
+        "A. Dantrolene IV, cooling, sodium bicarbonate",
+        "B. Neostigmine IV to reverse the block",
+        "C. Pralidoxime 2 g IV",
+        "D. Atropine 2 mg IV",
+        "E. Fresh frozen plasma transfusion"
+      ]
+    },
+    {
+      "question": "A 60-year-old woman with cirrhosis is given succinylcholine for an elective procedure. She remains apneic for 45 minutes. The anesthesiologist suspects pseudocholinesterase deficiency due to impaired liver synthesis. Which treatment is recommended in the lecture?",
+      "answer": "C",
+      "options": [
+        "A. Repeat dose of succinylcholine",
+        "B. Neostigmine with atropine",
+        "C. Fresh plasma or blood transfusion",
+        "D. Pralidoxime infusion",
+        "E. Dantrolene 2.5 mg/kg"
+      ]
+    },
+    {
+      "question": "A 65-year-old man with COPD is prescribed ipratropium bromide via inhaler. Which property of ipratropium makes it particularly safe for long-term use in this population?",
+      "answer": "B",
+      "options": [
+        "A. It is a tertiary amine that crosses the BBB and reduces central cough",
+        "B. It is a quaternary ammonium compound with poor systemic absorption, minimizing cardiac and anticholinergic side effects",
+        "C. It selectively blocks M3 receptors in the gut, reducing constipation",
+        "D. It has intrinsic sympathomimetic activity that prevents bradycardia",
+        "E. It is metabolized to atropine, providing prolonged action"
+      ]
+    },
+    {
+      "question": "A 32-year-old woman is about to undergo a routine eye examination. The ophthalmologist wants to dilate her pupil for a fundoscopic exam but prefers a drug with a short duration of action to minimize inconvenience. Which drug is most appropriate?",
+      "answer": "D",
+      "options": [
+        "A. Atropine",
+        "B. Scopolamine",
+        "C. Homatropine",
+        "D. Tropicamide",
+        "E. Ipratropium"
+      ]
+    },
+    {
+      "question": "A 4-year-old boy accidentally ingests a large dose of atropine from his grandmother's eye drops. He presents with flushed skin, dry mouth, fever (39.5°C), hallucinations, and a heart rate of 150 bpm. Which finding is most characteristic of atropine toxicity in children?",
+      "answer": "C",
+      "options": [
+        "A. Bradycardia and hypotension",
+        "B. Pinpoint pupils and salivation",
+        "C. Hyperthermia due to blockade of sweat glands",
+        "D. Constricted pupils and urinary frequency",
+        "E. Bronchospasm and wheezing"
+      ]
+    },
+    {
+      "question": "A 70-year-old man with Parkinson's disease is started on trihexyphenidyl to help control tremors. The mechanism of this drug is:",
+      "answer": "C",
+      "options": [
+        "A. Central dopamine receptor agonist",
+        "B. Peripheral muscarinic antagonist to reduce salivation",
+        "C. Central muscarinic antagonist to restore dopamine-acetylcholine balance",
+        "D. COMT inhibitor to increase levodopa availability",
+        "E. MAO-B inhibitor"
+      ]
+    },
+    {
+      "question": "A 28-year-old woman is given atropine preoperatively to reduce secretions. She later complains of blurred vision and difficulty reading. Which ocular effect is responsible?",
+      "answer": "A",
+      "options": [
+        "A. Cycloplegia (loss of accommodation) due to ciliary muscle paralysis",
+        "B. Miosis from M3 receptor stimulation",
+        "C. Increased intraocular pressure from trabecular meshwork contraction",
+        "D. Corneal edema from reduced tear production",
+        "E. Retinal vasodilation causing photophobia"
+      ]
+    },
+    {
+      "question": "A 55-year-old man with metastatic lung cancer is started on oral morphine for severe pain. He returns to clinic complaining of constipation and nausea. Which additional adverse effect of morphine is most directly responsible for the constipation?",
+      "answer": "C",
+      "options": [
+        "A. Central inhibition of the defecation reflex",
+        "B. Increased gastrointestinal motility due to M3 activation",
+        "C. Spasmogenic effect on intestinal smooth muscle (increased tone, reduced peristalsis)",
+        "D. Reduced gastric acid secretion leading to delayed gastric emptying",
+        "E. Activation of peripheral 5-HT3 receptors"
+      ]
+    },
+    {
+      "question": "A 22-year-old man is found unconscious with shallow breathing (2 breaths/min), pinpoint pupils (1 mm), and cyanosis. Empty prescription bottles of oxycodone are nearby. After establishing an airway and providing ventilation, what is the first pharmacologic intervention?",
+      "answer": "A",
+      "options": [
+        "A. Naloxone 0.4 mg IV, repeat every 2-3 minutes as needed",
+        "B. Flumazenil 0.2 mg IV",
+        "C. Physostigmine 1 mg IV",
+        "D. Atropine 2 mg IV",
+        "E. Pralidoxime 1 g IV"
+      ]
+    },
+    {
+      "question": "A 35-year-old woman with chronic pain due to sickle cell disease has been taking high-dose morphine for 6 months. She is admitted for an infection and her morphine is inadvertently held for 12 hours. She becomes agitated, hypertensive, tremulous, and complains of abdominal cramps and vomiting. What is the most likely diagnosis and appropriate management?",
+      "answer": "B",
+      "options": [
+        "A. Serotonin syndrome – cyproheptadine",
+        "B. Opioid withdrawal (abstinence syndrome) – methadone substitution and clonidine",
+        "C. Neuroleptic malignant syndrome – dantrolene",
+        "D. Cholinergic crisis – atropine",
+        "E. Malignant hyperthermia – cooling"
+      ]
+    },
+    {
+      "question": "A 60-year-old man is brought to the ED with suspected heroin overdose. The physician considers using nalorphine but decides against it because:",
+      "answer": "D",
+      "options": [
+        "A. Nalorphine is a pure antagonist with no agonist effects",
+        "B. Nalorphine can worsen respiratory depression if the patient is not opioid-dependent",
+        "C. Nalorphine is a mixed agonist-antagonist and may cause severe hypertension",
+        "D. Nalorphine is a mixed agonist-antagonist and if the patient does not have opioid poisoning, it can worsen respiratory depression",
+        "E. Nalorphine is only effective orally"
+      ]
+    },
+    {
+      "question": "A patient with chronic morphine addiction is being prepared for detoxification. After stabilization, the physician plans to use a long-acting oral opioid that can be gradually tapered. Which drug is recommended in the lecture for this purpose?",
+      "answer": "C",
+      "options": [
+        "A. Naltrexone",
+        "B. Buprenorphine",
+        "C. Methadone",
+        "D. Clonidine",
+        "E. Codeine"
+      ]
+    },
+    {
+      "question": "Which of the following adverse effects of morphine is mediated by histamine release?",
+      "answer": "D",
+      "options": [
+        "A. Respiratory depression",
+        "B. Miosis",
+        "C. Orthostatic hypotension",
+        "D. Skin rash, itching, and flushing",
+        "E. Constipation"
+      ]
+    },
+    {
+      "question": "A 45-year-old woman is given morphine post-operatively. Over the next hour, her urine output decreases significantly, and she reports difficulty voiding. What is the mechanism of this urinary retention?",
+      "answer": "B",
+      "options": [
+        "A. Direct stimulation of detrusor M3 receptors",
+        "B. Increased sphincter tone and detrusor relaxation due to opioid-induced inhibition of parasympathetic outflow",
+        "C. Antidiuretic hormone release",
+        "D. Nephrotoxicity from morphine metabolites",
+        "E. Bladder outlet obstruction from constipation"
+      ]
+    },
+    {
+      "question": "A 30-year-old woman receives atropine as premedication before surgery. Later, she complains of a very dry mouth and cannot sweat. Which receptor blockade is responsible?",
+      "answer": "C",
+      "options": [
+        "A. M1 receptors in the CNS",
+        "B. M2 receptors in the heart",
+        "C. M3 receptors on salivary and sweat glands",
+        "D. Nicotinic receptors in autonomic ganglia",
+        "E. Alpha-1 receptors in blood vessels"
+      ]
+    },
+    {
+      "question": "A 25-year-old medical student asks why scopolamine is more effective than atropine for motion sickness. Which property of scopolamine best explains this?",
+      "answer": "B",
+      "options": [
+        "A. It is a quaternary ammonium compound with no CNS effects",
+        "B. It has prominent central depressant actions and is often given as a transdermal patch",
+        "C. It selectively blocks vestibular M2 receptors without affecting cardiac M2",
+        "D. It has a longer duration of action than atropine",
+        "E. It is a nicotinic antagonist that reduces vestibular input"
+      ]
+    },
+    {
+      "question": "A 50-year-old woman with overactive bladder is prescribed oxybutynin. This drug belongs to which class of muscarinic antagonists?",
+      "answer": "D",
+      "options": [
+        "A. Antiparkinsonian",
+        "B. Ophthalmic mydriatic",
+        "C. Bronchodilator",
+        "D. Genitourinary antispasmodic",
+        "E. GI antispasmodic"
+      ]
+    },
+    {
+      "question": "A 28-year-old man ingests a large quantity of a household insecticide containing an organophosphate. He presents with muscle fasciculations, then generalized weakness and paralysis. Which receptor type is primarily responsible for the nicotinic manifestations?",
+      "answer": "D",
+      "options": [
+        "A. M3 receptors on smooth muscle",
+        "B. M2 receptors in the heart",
+        "C. Nn (neuronal nicotinic) receptors in ganglia",
+        "D. Nm (muscle nicotinic) receptors at the neuromuscular junction",
+        "E. Central M1 receptors"
+      ]
+    },
+    {
+      "question": "A 40-year-old man is given edrophonium to differentiate myasthenic from cholinergic crisis. The drug's duration of action is approximately 5 minutes. Which property accounts for this short duration?",
+      "answer": "D",
+      "options": [
+        "A. It is rapidly degraded by monoamine oxidase",
+        "B. It is a quaternary ammonium compound that is rapidly excreted unchanged in urine",
+        "C. It has a very short half-life due to rapid hydrolysis by plasma cholinesterase",
+        "D. It is a reversible competitive antagonist with a high dissociation rate",
+        "E. It is a tertiary amine that redistributes quickly into fat"
+]}
+    ]
+  },
+  {
+  "name": "cell wall inhibitors l",
+  "activeRecall": [
+    {
+      "question": "What is the molecular target of the structural analog component found in all penicillins?",
+      "answer": "Penicillin-Binding Proteins (PBPs) / Transpeptidases located in the bacterial cell membrane."
+    },
+    {
+      "question": "Which specific enzyme step in peptidoglycan cell wall synthesis is blocked by β-lactams?",
+      "answer": "The third/final step (cross-linkage formation between peptidoglycan layers via transpeptidation)."
+    },
+    {
+      "question": "Why are Gram-negative bacteria inherently more resistant to natural Penicillin G than Gram-positive bacteria?",
+      "answer": "Gram-negative bacteria possess an outer lipopolysaccharide membrane that acts as a physical barrier to water-soluble natural penicillins."
+    },
+    {
+      "question": "What role do bacterial autolysins play during treatment with bactericidal cell wall inhibitors?",
+      "answer": "β-lactams activate unactivated autolysin enzymes during cell division, causing active degradation and lysis of the cell wall and organelles."
+    },
+    {
+      "question": "Name the unique non-penicillin drug class that exhibits anti-MRSA activity among all β-lactams.",
+      "answer": "Fifth-generation cephalosporins (Ceftaroline and Ceftobiprole)."
+    },
+    {
+      "question": "What medication can be co-administered with penicillins to prolong their plasma concentration by blocking renal excretion?",
+      "answer": "Probenecid (an anti-gout medication that competes for the organic acid secretory mechanism)."
+    },
+    {
+      "question": "Which specific penicillin is excreted primarily via the biliary system, making it safe in renal failure without dose adjustments?",
+      "answer": "Nafcillin."
+    },
+    {
+      "question": "Why are long-acting forms like Benzathine Penicillin G restricted strictly to intramuscular administration?",
+      "answer": "They are insoluble salts designed for slow, sustained depot absorption; IV injection causes severe embolic/vascular occlusion."
+    },
+    {
+      "question": "Which anti-staphylococcal penicillin is historically associated with causing acute interstitial nephritis?",
+      "answer": "Methicillin."
+    },
+    {
+      "question": "What serious hematologic side effect is uniquely associated with high-dose Nafcillin therapy?",
+      "answer": "Bone marrow depression / Neutropenia."
+    },
+    {
+      "question": "Why do ampicillin prodrugs like bacampicillin result in a lower frequency of diarrhea than standard oral ampicillin?",
+      "answer": "They are absorbed as inactive lipophilic esters in the gut mucosa, minimizing the destruction of normal intestinal flora before entering systemic circulation."
+    },
+    {
+      "question": "Which enteric pathogen is Amoxicillin preferentially selected to treat over Ampicillin?",
+      "answer": "Salmonella (Typhoid fever)."
+    },
+    {
+      "question": "What unique structural group is added to penicillin to create aminopenicillins, allowing them to pass through Gram-negative porins?",
+      "answer": "An amino group (-NH2)."
+    },
+    {
+      "question": "Explain the chemical rationale for why Piperacillin and Gentamicin cannot be mixed in the same delivery line.",
+      "answer": "They carry opposite chemical charges (acidic antipseudomonal penicillin vs. basic aminoglycoside), leading to precipitation and mutual inactivation."
+    },
+    {
+      "question": "What severe adverse effect can occur if a patient taking high-dose Aspirin is prescribed Ticarcillin?",
+      "answer": "Severe bleeding, due to additive platelet dysfunction caused by Ticarcillin interacting with antiplatelet drugs."
+    },
+    {
+      "question": "Why can carbenicillin administration dangerously worsen a patient's uncontrolled hypertension or heart failure?",
+      "answer": "It is a sodium salt formulation that causes significant cation disturbance and fluid retention/volume expansion."
+    },
+    {
+      "question": "What type of hypersensitivity reaction is characterized by serum sickness appearing 2–12 days after penicillin administration?",
+      "answer": "Type III hypersensitivity reaction (Immune-complex mediated)."
+    },
+    {
+      "question": "If a patient experiences a life-threatening anaphylactic reaction to Penicillin G, what non-β-lactam options are preferred for Gram-positive coverage?",
+      "answer": "Erythromycin or Vancomycin."
+    },
+    {
+      "question": "Why is combining a bactericidal drug like Penicillin G with a bacteriostatic drug like Tetracycline clinically disadvantageous?",
+      "answer": "Penicillins require actively multiplying bacteria to be effective; bacteriostatic drugs halt multiplication, rendering the penicillin ineffective."
+    },
+    {
+      "question": "What specific hepatic adverse effect is highly associated with the combination drug Co-amoxiclav (Augmentin)?",
+      "answer": "Hepatotoxicity / Cholestatic jaundice induced by the clavulanic acid component."
+    }
+  ],
+  "mcqs": [
+    {
+      "question": "A 24-year-old male presents with a painless, indurated ulcer on his glans penis accompanied by bilateral inguinal lymphadenopathy. A darkfield microscopic examination of ulcer exudate reveals motile spirochetes. The patient confirms a history of severe hives and shortness of breath after taking an unknown antibiotic as a child. Which of the following is the most appropriate management strategy?",
+      "answer": "D",
+      "options": [
+        "A. Intravenous Penicillin G Aqueous",
+        "B. Intramuscular Benzathine Penicillin G",
+        "C. Oral Penicillin V",
+        "D. Oral Erythromycin",
+        "E. Intravenous Piperacillin/Tazobactam"
+      ]
+    },
+    {
+      "question": "A 62-year-old female with a history of severe congestive heart failure (EF 25%) and deep vein thrombosis managed on chronic Aspirin therapy is hospitalized with a severe pseudomonal wound infection. The clinical team considers utilizing an antipseudomonal penicillin regimen. Which of the following adverse reaction risks must be prioritized when evaluating this patient's pharmacotherapy?",
+      "answer": "B",
+      "options": [
+        "A. Interstitial nephritis induced by Ampicillin",
+        "B. Platelet dysfunction and volume overload induced by Ticarcillin",
+        "C. Bone marrow depression induced by Amoxicillin",
+        "D. Severe diarrhea secondary to Penicillin V administration",
+        "E. Cholestatic jaundice secondary to Piperacillin monotherapy"
+      ]
+    },
+    {
+      "question": "A 45-year-old male with a history of chronic alcoholism and liver cirrhosis is admitted for severe bacterial endocarditis. Blood cultures grow a strain of Streptococcus faecalis that is highly susceptible to combination bactericidal therapy. The patient's serum creatinine is 3.4 mg/dL (normal: 0.6-1.2 mg/dL). If the clinician prescribes high-dose intravenous Penicillin G without adjusting the maintenance dosing interval, which complication is the patient at greatest risk for?",
+      "answer": "C",
+      "options": [
+        "A. Biliary tract obstruction",
+        "B. Acute interstitial nephritis",
+        "C. Grand mal seizures",
+        "D. Maculopapular drug-induced rash",
+        "E. Agranulocytosis"
+      ]
+    },
+    {
+      "question": "An ICU team is managing a 38-year-old patient with severe hospital-acquired septicemia secondary to Pseudomonas aeruginosa. The resident writes orders to administer intravenous Piperacillin/Tazobactam and Gentamicin concurrently through a single shared lumen central venous catheter line. What is the predictable pharmacodynamic outcome of this choice?",
+      "answer": "B",
+      "options": [
+        "A. Synergistic enhancement of pseudomonal cell wall destruction",
+        "B. Chemical precipitation in the IV line resulting in mutual drug inactivation",
+        "C. Accelerated renal clearance of Gentamicin by Piperacillin competition",
+        "D. Decreased risk of patient hypersensitivity reactions",
+        "E. Enhanced penetration of Gentamicin into the biliary tree"
+      ]
+    },
+    {
+      "question": "A 5-year-old child presents with a high fever, severe sore throat, and a diffuse exudate across swollen palatine tonsils. A rapid streptococcal antigen test confirms Group A Beta-Hemolytic Streptococcus infection. The physician wants to ensure long-term coverage because the family has a documented history of non-adherence to multi-day oral treatments. Which agent will maintain effective therapeutic concentrations for up to 3 to 4 weeks following a single injection?",
+      "answer": "C",
+      "options": [
+        "A. Procaine Penicillin",
+        "B. Penicillin V",
+        "C. Benzathine Penicillin",
+        "D. Co-amoxiclav",
+        "E. Ampicillin"
+      ]
+    },
+    {
+      "question": "A researcher is studying resistance mechanisms against β-lactam cell wall inhibitors. A mutant strain of Staphylococcus aureus is isolated that exhibits full resistance to Nafcillin, Oxacillin, and Dicloxacillin, despite the introduction of advanced β-lactamase inhibitors like Clavulanic acid. What is the underlying molecular mechanism responsible for this resistance profile?",
+      "answer": "B",
+      "options": [
+        "A. Hyperproduction of classic plasmid-mediated penicillinase enzymes",
+        "B. Structural alteration of penicillin-binding proteins (PBPs) resulting in low affinity",
+        "C. Upregulation of efflux pumps that actively extrude organic acids",
+        "D. Loss of outer membrane porin channels restricting water-soluble drug entry",
+        "E. Enzymatic modification via aminoglycoside-modifying acetyltransferases"
+      ]
+    },
+    {
+      "question": "A 29-year-old male patient with a history of recurrent respiratory infections is diagnosed with an acute exacerbation of chronic bronchitis. The sputum sample is sticky, thick, and highly purulent. Which of the following oral agents is preferred due to its unique pharmacokinetic ability to penetrate mucoid and purulent respiratory secretions?",
+      "answer": "D",
+      "options": [
+        "A. Ampicillin",
+        "B. Penicillin G",
+        "C. Dicloxacillin",
+        "D. Amoxicillin",
+        "E. Carbenicillin"
+      ]
+    },
+    {
+      "question": "A 54-year-old male presents to the emergency room with severe chills, fever, and right upper quadrant abdominal pain. Ultrasound reveals acute cholecystitis with secondary biliary tract infection. The clinical team wishes to utilize an extended-spectrum aminopenicillin that concentrates exceptionally well in the bile. Which agent should be selected?",
+      "answer": "B",
+      "options": [
+        "A. Penicillin V",
+        "B. Ampicillin",
+        "C. Cloxacillin",
+        "D. Piperacillin",
+        "E. Methicillin"
+      ]
+    },
+    {
+      "question": "A medical student is reviewing antibiotic mechanisms for an upcoming exam. She reads about \"suicide inhibitors\" that possess minimal intrinsic antimicrobial activity but bind irreversibly to bacterial defense enzymes to safeguard paired co-administered medications. Which drug fits this description?",
+      "answer": "A",
+      "options": [
+        "A. Tazobactam",
+        "B. Azlocillin",
+        "C. Nafcillin",
+        "D. Bacampicillin",
+        "E. Ceftriaxone"
+      ]
+    },
+    {
+      "question": "A 31-year-old female is diagnosed with severe community-acquired pneumonia. The clinical presentation and radiologic findings strongly suggest a mixed atypical infection involving Mycoplasma pneumoniae. Why would selecting a broad-spectrum β-lactam drug like Amoxicillin/Clavulanate as a standalone therapy fail to clear this infection?",
+      "answer": "B",
+      "options": [
+        "A. The presence of advanced plasmid-mediated extended-spectrum β-lactamases (ESBL)",
+        "B. Mycoplasma pneumoniae lacks a peptidoglycan cell wall structure entirely",
+        "C. Clavulanic acid chemically inactivates amoxicillin in pulmonary tissues",
+        "D. The drug is rapidly metabolized by host alveolar macrophages",
+        "E. Atypical organisms express modified low-affinity porin channels"
+      ]
+    },
+    {
+      "question": "A 32-year-old female with a history of a severe, immediate hypersensitivity reaction (hives and dyspnea) to oral amoxicillin presents to the emergency department with high fever, chills, and a productive cough. Chest X-ray reveals right lower lobe pneumonia. Her medical history is significant for well-controlled type 2 diabetes. She requires parenteral antibiotic therapy. Which of the following antibiotic regimens is most appropriate for empiric treatment of community-acquired pneumonia in this patient?",
+      "answer": "E",
+      "options": [
+        "A. Aztreonam",
+        "B. Ceftriaxone",
+        "C. Piperacillin/tazobactam",
+        "D. Ampicillin/sulbactam",
+        "E. Vancomycin"
+      ]
+    },
+    {
+      "question": "A 68-year-old male with chronic kidney disease (CKD) stage 4 (eGFR 20 mL/min) is hospitalized for Pseudomonas aeruginosa bacteremia. He is started on intravenous piperacillin/tazobactam at standard dosing for a patient with normal renal function. On day 3 of therapy, the nurse reports that the patient has become confused, disoriented, and is experiencing myoclonic jerks. No new sedating medications have been administered. His serum electrolytes and blood glucose are normal. What is the most likely cause of this patient's neurological symptoms?",
+      "answer": "B",
+      "options": [
+        "A. Disease progression of bacteremia to meningitis",
+        "B. Drug-induced seizure activity from piperacillin accumulation",
+        "C. Uremic encephalopathy from undialyzed CKD",
+        "D. Atypical absence seizure disorder unmasked by illness",
+        "E. Interaction between piperacillin and his baseline antihypertensive"
+      ]
+    },
+    {
+      "question": "A 22-year-old male is being treated for uncomplicated gonorrhea. He is prescribed a single intramuscular dose of ceftriaxone. However, the clinic is temporarily out of ceftriaxone. The physician decides to use a 10-day course of oral amoxicillin instead. To enhance the efficacy and prolong the duration of the amoxicillin, which of the following medications could be co-administered to achieve this goal by blocking renal tubular secretion?",
+      "answer": "C",
+      "options": [
+        "A. Aspirin",
+        "B. Furosemide",
+        "C. Probenecid",
+        "D. Acetaminophen",
+        "E. Ibuprofen"
+      ]
+    },
+    {
+      "question": "A 55-year-old female with Enterococcus faecalis endocarditis is being treated with intravenous ampicillin and gentamicin. The nurse prepares both medications in the same 100 mL bag of normal saline and infuses it over 30 minutes. Two hours after the infusion, the patient's fever has not improved. Which pharmacological principle best explains the potential failure of this therapy?",
+      "answer": "D",
+      "options": [
+        "A. Ampicillin induces rapid bacterial resistance, making gentamicin ineffective.",
+        "B. Gentamicin inactivates ampicillin by enzymatic hydrolysis.",
+        "C. Ampicillin and gentamicin are physically incompatible and precipitate in the IV line.",
+        "D. Ampicillin impairs the antibacterial action of gentamicin when mixed together in vitro.",
+        "E. Gentamicin inhibits the renal excretion of ampicillin, leading to subtherapeutic levels."
+      ]
+    },
+    {
+      "question": "A 28-year-old male with pneumococcal meningitis is started on intravenous penicillin G. On day 2, he remains febrile and has persistent nuchal rigidity. The covering physician, worried about treatment failure, decides to add oral tetracycline without stopping the penicillin. The patient's condition continues to worsen. What is the most likely explanation for the lack of clinical response to this antibiotic combination?",
+      "answer": "A",
+      "options": [
+        "A. Tetracycline-induced antagonism of penicillin's bactericidal activity.",
+        "B. Penicillin G is not able to cross the blood-brain barrier in this patient.",
+        "C. The patient likely has a beta-lactamase producing strain of S. pneumoniae.",
+        "D. Tetracycline is inactivated by the acidic environment of the CSF.",
+        "E. Synergistic nephrotoxicity from the combination is preventing adequate dosing."
+      ]
+    },
+    {
+      "question": "A 34-year-old female is prescribed oral ampicillin for a urinary tract infection. On the third day of therapy, she develops profuse, watery diarrhea (5-6 episodes per day) but no fever, blood, or mucus in her stool. She has no significant past medical history. What is the primary mechanism responsible for this common adverse effect of ampicillin?",
+      "answer": "C",
+      "options": [
+        "A. Direct stimulation of intestinal chloride secretion by the drug.",
+        "B. Allergic eosinophilic gastroenteritis.",
+        "C. Disturbance of the normal balance of intestinal flora leading to functional diarrhea.",
+        "D. Bile acid malabsorption induced by the antibiotic.",
+        "E. Inhibition of intestinal disaccharidase enzymes."
+      ]
+    },
+    {
+      "question": "A 72-year-old nursing home resident is treated for 14 days with intravenous ceftriaxone for a healthcare-associated pneumonia. Five days after completing therapy, she develops fever, abdominal pain, and profuse, watery diarrhea. A stool PCR is positive for Clostridioides difficile toxin B. Which of the following best explains the pathogenesis of this superinfection following beta-lactam therapy?",
+      "answer": "B",
+      "options": [
+        "A. Direct killing of C. difficile by ceftriaxone triggers toxin release.",
+        "B. Suppression of normal colonic flora allows proliferation of an inherently resistant C. difficile.",
+        "C. Ceftriaxone is converted to a toxic metabolite in the colon that damages the mucosa.",
+        "D. The patient had an unrecognized hypersensitivity to ceftriaxone manifesting as colitis.",
+        "E. Ceftriaxone induces a systemic immunosuppressive state."
+      ]
+    },
+    {
+      "question": "A 25-year-old male receives a single intramuscular injection of benzathine penicillin G for secondary syphilis. Twelve days later, he presents to the clinic with fever, malaise, diffuse arthralgia (joint pain), and an urticarial rash on his trunk. His symptoms began 10 days after the injection. Which type of hypersensitivity reaction is most consistent with this clinical presentation, according to the lecture?",
+      "answer": "C",
+      "options": [
+        "A. Immediate (Type I) anaphylactic reaction",
+        "B. Accelerated reaction (1-72 hours)",
+        "C. Delayed (Type III) serum sickness-like reaction",
+        "D. Type IV delayed-type hypersensitivity",
+        "E. Autoimmune reaction (Type II)"
+      ]
+    },
+    {
+      "question": "A 58-year-old male with cystic fibrosis and a chronic Pseudomonas aeruginosa infection is being treated with intravenous ticarcillin/clavulanate. He also takes daily aspirin 81 mg for secondary prevention of a prior myocardial infarction. During his hospital stay, he develops easy bruising and bleeding from his IV site. His platelet count is normal, but his bleeding time is prolonged. What is the most likely mechanism for this patient's bleeding diathesis?",
+      "answer": "B",
+      "options": [
+        "A. Immune thrombocytopenia (ITP) induced by ticarcillin.",
+        "B. Drug-drug interaction between ticarcillin and aspirin leading to synergistic platelet dysfunction.",
+        "C. Vitamin K deficiency caused by ticarcillin.",
+        "D. Disseminated intravascular coagulation (DIC) from his chronic infection.",
+        "E. Direct anticoagulant effect of clavulanate."
+      ]
+    },
+    {
+      "question": "A 47-year-old male with a history of hypertension and heart failure is being treated for a severe Pseudomonas UTI. The antibiotic regimen includes high-dose intravenous carbenicillin disodium. On day 4 of therapy, his blood pressure increases from 130/80 mmHg to 155/95 mmHg, and his weight has increased by 2.5 kg. His serum sodium level is 150 mEq/L (normal 135-145). Which adverse effect of this specific penicillin is most likely contributing to this clinical picture?",
+      "answer": "B",
+      "options": [
+        "A. Carbenicillin-induced nephrotoxicity leading to fluid retention.",
+        "B. Carbenicillin is formulated as a sodium salt, causing sodium overload.",
+        "C. Carbenicillin antagonizes the effect of his antihypertensive medication.",
+        "D. Carbenicillin causes a syndrome of inappropriate antidiuretic hormone (SIADH).",
+        "E. Carbenicillin-induced platelet dysfunction leading to microvascular injury."
+      ]
+    },
+    {
+      "question": "A 45-year-old female is prescribed oral amoxicillin/clavulanate for a sinus infection caused by a beta-lactamase-producing strain of Haemophilus influenzae. Clavulanate itself has minimal antimicrobial activity. How does clavulanate restore the activity of amoxicillin against this resistant organism?",
+      "answer": "C",
+      "options": [
+        "A. Clavulanate binds to and blocks the bacterial ribosome, preventing resistance protein synthesis.",
+        "B. Clavulanate acts as a competitive inhibitor of bacterial DNA gyrase.",
+        "C. Clavulanate irreversibly binds to and neutralizes the beta-lactamase enzyme.",
+        "D. Clavulanate increases the permeability of the bacterial outer membrane to amoxicillin.",
+        "E. Clavulanate directly cross-links peptidoglycan, bypassing the need for transpeptidases."
+      ]
+    },
+    {
+      "question": "A 62-year-old male with end-stage renal disease (ESRD) on hemodialysis develops a methicillin-susceptible Staphylococcus aureus (MSSA) bacteremia. Which of the following anti-staphylococcal penicillins is unique because it does not require dose adjustment in renal failure and is primarily eliminated via the biliary tract?",
+      "answer": "D",
+      "options": [
+        "A. Methicillin",
+        "B. Flucloxacillin",
+        "C. Ampicillin",
+        "D. Nafcillin",
+        "E. Piperacillin"
+      ]
+    },
+    {
+      "question": "A 55-year-old diabetic patient with a chronic foot ulcer is admitted with fever and cellulitis. A wound culture grows Staphylococcus aureus that is resistant to oxacillin. The laboratory reports the isolate as MRSA (methicillin-resistant S. aureus). Which of the following beta-lactam antibiotics, according to the lecture, possesses activity against MRSA?",
+      "answer": "D",
+      "options": [
+        "A. Ceftriaxone",
+        "B. Nafcillin",
+        "C. Amoxicillin/clavulanate",
+        "D. Ceftaroline",
+        "E. Meropenem"
+      ]
+    },
+    {
+      "question": "A 34-year-old intravenous drug user is diagnosed with Enterococcus faecalis infective endocarditis. The guideline-recommended regimen is ampicillin plus gentamicin. The rationale for this combination is based on the mechanism that ampicillin facilitates the penetration of gentamicin into the bacterium. How does this occur?",
+      "answer": "C",
+      "options": [
+        "A. Ampicillin degrades the bacterial capsule, exposing core receptors for gentamicin.",
+        "B. Ampicillin inhibits the efflux pump that normally expels gentamicin.",
+        "C. Ampicillin-mediated inhibition of cell wall synthesis permits greater access of gentamicin to its ribosomal target.",
+        "D. Ampicillin chelates divalent cations in the outer membrane of the Gram-positive cell.",
+        "E. Ampicillin directly opens porin channels in the bacterial cell membrane."
+      ]
+    },
+    {
+      "question": "A 28-year-old pregnant woman at 28 weeks gestation is diagnosed with primary syphilis. She has no known drug allergies. Which of the following parenteral penicillins is considered the treatment of choice for syphilis during pregnancy, and why is it safe to use?",
+      "answer": "C",
+      "options": [
+        "A. Ampicillin, because it is a broad-spectrum penicillin and covers all potential fetal pathogens.",
+        "B. Ceftriaxone, to avoid the risk of anaphylaxis from penicillin.",
+        "C. Benzathine penicillin G, and it is not teratogenic because human tissues lack transpeptidase enzymes.",
+        "D. Procaine penicillin G, given daily for 14 days to ensure fetal blood levels.",
+        "E. Doxycycline, because it has better placental penetration."
+      ]
+    },
+    {
+      "question": "A 22-year-old otherwise healthy college student presents with a 5-day history of fever, non-productive cough, and malaise. Chest X-ray shows interstitial infiltrates. The physician suspects community-acquired pneumonia (CAP) due to Mycoplasma pneumoniae. Which of the following cell wall-active antibiotics would be completely ineffective as monotherapy for this suspected pathogen, and why?",
+      "answer": "C",
+      "options": [
+        "A. Azithromycin, because Mycoplasma has an efflux pump for macrolides.",
+        "B. Doxycycline, because Mycoplasma requires folic acid synthesis.",
+        "C. Amoxicillin, because Mycoplasma lacks a cell wall.",
+        "D. Levofloxacin, because Mycoplasma has altered DNA gyrase.",
+        "E. Vancomycin, because it is too large to penetrate the Mycoplasma cell membrane."
+      ]
+    },
+    {
+      "question": "A 49-year-old male was treated with intravenous methicillin for a severe staphylococcal infection ten years ago. During that treatment, he developed fever, eosinophilia, and a rash, and his serum creatinine rose significantly. A renal biopsy confirmed acute interstitial nephritis (AIN). The lecture notes that methicillin is no longer used clinically. Which two major reasons are cited for its discontinuation?",
+      "answer": "B",
+      "options": [
+        "A. High cost and need for continuous infusion.",
+        "B. Association with MRSA and acute interstitial nephritis (AIN).",
+        "C. Narrow spectrum and poor oral bioavailability.",
+        "D. High rate of anaphylaxis and bone marrow suppression.",
+        "E. Hepatotoxicity and neurotoxicity."
+]}
+    ]
+  }
 ]
-}
-]
-}
-]
-
