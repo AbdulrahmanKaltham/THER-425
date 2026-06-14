@@ -2798,6 +2798,357 @@
         "C. Tigecycline exhibits broad-spectrum activity including MRSA, VRE, and ESBL-producing Gram-negatives, but not Proteus or Pseudomonas",
         "D. Tigecycline is the drug of choice for urinary tract infections due to its high renal excretion",
         "E. Tigecycline is bactericidal and has a long post-antibiotic effect"
+]}
+    ]
+  },
+ {
+  "name": "Protein synthesis inhibitors II",
+  "activeRecall": [
+    {
+      "question": "What specific ribosomal subunit do aminoglycosides bind to, and is this binding reversible or irreversible?",
+      "answer": "Aminoglycosides bind irreversibly to the 30S ribosomal bacterial subunits."
+    },
+    {
+      "question": "Why are aminoglycosides completely ineffective against obligate anaerobic bacteria?",
+      "answer": "They are ineffective against anaerobs because crossing the bacterial inner membrane requires an oxygen-dependent active transport mechanism into the cells."
+    },
+    {
+      "question": "Name two distinct pharmacodynamic properties of aminoglycosides that justify once-daily extended-interval dosing.",
+      "answer": "Concentration-dependent killing effect (efficacy depends on Cmax/MIC ratio) and Post-Antibiotic Effect (PAE) where bacterial suppression continues after drug levels drop below the MIC."
+    },
+    {
+      "question": "Which aminoglycoside is least susceptible to plasmid-mediated bacterial modifying enzymes?",
+      "answer": "Amikacin is less vulnerable to these inactivating enzymes than other antibiotics in this group."
+    },
+    {
+      "question": "Which aminoglycoside displays superior intrinsic activity against Pseudomonas aeruginosa?",
+      "answer": "Tobramycin is more effective against Pseudomonas compared to the spectrum of gentamicin."
+    },
+    {
+      "question": "Why are aminoglycosides unable to penetrate the blood-brain barrier effectively even during active states of meningeal inflammation?",
+      "answer": "They are highly polar, water-soluble, and positively charged (ionized) molecules, which restricts their distribution into the extracellular fluids and prevents them from penetrating the BBB."
+    },
+    {
+      "question": "By what specific route must an aminoglycoside be given to treat a patient with bacterial meningitis?",
+      "answer": "They must be given intrathecally or epidurally."
+    },
+    {
+      "question": "Explain why oral administration of Neomycin does not cause systemic nephrotoxicity in a patient with a healthy GI tract.",
+      "answer": "Neomycin is highly polar and not absorbed orally, remaining completely within the gastrointestinal tract lumen."
+    },
+    {
+      "question": "What are the two primary clinical indications for utilizing oral Neomycin?",
+      "answer": "Used orally in hepatic coma to reduce ammonia-producing flora and as an intestinal antiseptic before surgery."
+    },
+    {
+      "question": "Which aminoglycoside serves as a targeted alternative to Metronidazole for treating resistant intestinal amoebiasis?",
+      "answer": "Paromomycin."
+    },
+    {
+      "question": "Which structurally unique drug in this lecture can treat Neisseria gonorrhoeae in penicillin-allergic patients without causing ototoxicity or nephrotoxicity?",
+      "answer": "Spectinomycin."
+    },
+    {
+      "question": "What specific anatomical structures within the inner ear accumulate aminoglycosides, leading to ototoxicity?",
+      "answer": "They concentrate specifically in the perilymph and endolymph of the inner ear."
+    },
+    {
+      "question": "Name two drug classes that markedly potentiate the risk of aminoglycoside-induced ototoxicity when co-administered.",
+      "answer": "Loop diuretics (e.g., frusemide, mannitol) and certain antihistamines (e.g., dimenhydrinate)."
+    },
+    {
+      "question": "What specific type of renal injury is characteristically caused by aminoglycosides?",
+      "answer": "Acute tubular necrosis (ATN), concentrated within the renal cortex."
+    },
+    {
+      "question": "After which day of continuous aminoglycoside therapy is it mandatory to begin monitoring renal function parameters?",
+      "answer": "After the 3rd day, a kidney function test must be performed."
+    },
+    {
+      "question": "What is the cellular mechanism behind aminoglycoside-induced neuromuscular paralysis?",
+      "answer": "Aminoglycosides inhibit the pre-synaptic release of Acetylcholine (ACh) at the neuromuscular junction."
+    },
+    {
+      "question": "If a post-operative patient experiences respiratory depression due to an aminoglycoside interacting with a skeletal muscle relaxant, what should be administered as an antidote?",
+      "answer": "Calcium (Ca2+) should be administered."
+    },
+    {
+      "question": "Why is it clinically contraindicated to mix a penicillin and an aminoglycoside within the exact same infusion syringe?",
+      "answer": "They will decrease each other's antibacterial effects in vitro because penicillins are acidic and aminoglycosides are alkaline, leading to chemical inactivation."
+    },
+    {
+      "question": "Why can a breastfeeding mother safely receive systemic Gentamicin therapy without causing systemic toxicity in her nursing infant?",
+      "answer": "Because aminoglycosides are highly polar, water-soluble molecules that are not absorbed orally from the baby's gastrointestinal tract if ingested through breast milk."
+    },
+    {
+      "question": "What is the target peak concentration (Cmax) relative to the Minimum Inhibitory Concentration (MIC) for an aminoglycoside to achieve optimal concentration-dependent killing?",
+      "answer": "The target peak concentration (Cmax) should be 8 to 10 times the Minimum Inhibitory Concentration (MIC)."
+    }
+  ],
+  "mcqs": [
+    {
+      "question": "A 64-year-old male is hospitalized for a severe, complicated urinary tract infection caused by a multi-drug resistant strain of Klebsiella pneumoniae. The medical team initiates intravenous Gentamicin therapy. Which of the following best describes the optimal dosing strategy and underlying rationale for this patient?",
+      "answer": "B",
+      "options": [
+        "A. Divided daily doses to maximize the time the drug concentration remains above the Minimum Inhibitory Concentration (T > MIC).",
+        "B. Extended-interval once-daily dosing to exploit concentration-dependent killing and the post-antibiotic effect while minimizing drug accumulation.",
+        "C. Continuous intravenous infusion to maintain steady-state serum levels exactly at the MIC threshold.",
+        "D. Alternating twelve-hour dosing schedules specifically to prevent the induction of plasmid-mediated efflux pumps."
+      ]
+    },
+    {
+      "question": "A 28-year-old female at 32 weeks gestation presents to the emergency department with chills, high fever, flank pain, and costovertebral angle tenderness. Urine culture grows Escherichia coli. The intern suggests initiating a course of systemic Aminoglycosides. Why is this drug class generally avoided or heavily restricted in this scenario?",
+      "answer": "C",
+      "options": [
+        "A. It undergoes extensive hepatic metabolism, risking acute maternal liver failure.",
+        "B. It is highly lipophilic and rapidly crosses the placenta to cause fetal cardiac malformations.",
+        "C. It crosses the placenta and concentrates in the fetal inner ear, carrying a high risk of congenital deafness.",
+        "D. It induces severe uterine contractions by directly activating pelvic muscarinic receptors."
+      ]
+    },
+    {
+      "question": "A 72-year-old female with a history of severe osteoarthritis is being treated for a hospital-acquired pseudomonal wound infection with intravenous Tobramycin. Her concurrent home medications include Furosemide, Acetaminophen, Metformin, and Atorvastatin. After 5 days of co-therapy, she complains of progressive tinnitus and severe dizziness. What drug interaction most likely accelerated this presentation?",
+      "answer": "B",
+      "options": [
+        "A. Tobramycin displacement from plasma proteins by Atorvastatin.",
+        "B. Synergistic ototoxicity induced by the co-administration of Furosemide.",
+        "C. Decreased renal clearance of Tobramycin caused by Metformin-induced lactic acidosis.",
+        "D. Chemical inactivation of Tobramycin in the bloodstream by Acetaminophen."
+      ]
+    },
+    {
+      "question": "An intensive care unit patient with a severe intra-abdominal abscess undergoes an emergency exploratory laparotomy. During the procedure, the surgical team cleanses the peritoneal cavity with a large volume of solution containing an aminoglycoside. Post-operatively in the recovery unit, the patient experiences sudden respiratory depression and flaccid paralysis. What is the physiological mechanism behind this adverse event?",
+      "answer": "B",
+      "options": [
+        "A. Competitive inhibition of post-synaptic nicotinic receptors by the drug.",
+        "B. Direct inhibition of pre-synaptic Acetylcholine (ACh) release by the aminoglycoside.",
+        "C. Sudden hyperkalemia caused by acute tubular necrosis induction.",
+        "D. Central respiratory center depression across the blood-brain barrier."
+      ]
+    },
+    {
+      "question": "A 53-year-old male with a long-standing history of liver cirrhosis is admitted to the medical ward in a state of worsening confusion, asterixis, and altered mental status consistent with hepatic encephalopathy. The attending physician prescribes oral Neomycin. What is the primary clinical objective of utilizing this specific drug via the oral route?",
+      "answer": "B",
+      "options": [
+        "A. Eradication of systemic Gram-negative septicemia tracking from the portal vein.",
+        "B. Local reduction of ammonia-producing bacterial flora within the intestinal lumen.",
+        "C. Direct chemical neutralization of ammonium ions within the gastric mucosa.",
+        "D. Stimulation of intestinal motility to clear toxic nitrogenous metabolic wastes."
+      ]
+    },
+    {
+      "question": "A 34-year-old male presents to a sexual health clinic with burning on urination and a purulent urethral discharge. Microscopic evaluation confirms the presence of Gram-negative intracellular diplococci (Neisseria gonorrhoeae). The patient has a documented history of severe anaphylaxis to both penicillins and cephalosporins. Which of the following agents is the most appropriate alternative therapy?",
+      "answer": "C",
+      "options": [
+        "A. Gentamicin",
+        "B. Amikacin",
+        "C. Spectinomycin",
+        "D. Neomycin"
+      ]
+    },
+    {
+      "question": "A clinical pharmacist is reviewing the chart of a patient receiving combination therapy for enterococcal endocarditis. The chart shows orders for Gentamicin and Ampicillin. The nurse asks if both medications can be combined into a single large volume intravenous piggyback bag to save line access. What should the pharmacist advise?",
+      "answer": "B",
+      "options": [
+        "A. Yes, because their alkaline-acid synergy enhances stability in solution.",
+        "B. No, because the acidic penicillin will chemically inactivate the alkaline aminoglycoside in vitro.",
+        "C. Yes, because it enhances the concentration-dependent killing profile of Gentamicin.",
+        "D. No, because combining them causes instant physical precipitation that clogs the IV catheter."
+      ]
+    },
+    {
+      "question": "A 45-year-old patient who has been receiving an empiric intravenous aminoglycoside regimen for a severe pelvic infection develops decreased urine output on day 5 of therapy. Laboratory evaluation reveals elevated serum creatinine and blood urea nitrogen (BUN). If a renal biopsy were performed, which of the following histopathological findings would most likely be observed?",
+      "answer": "B",
+      "options": [
+        "A. Acute interstitial nephritis with eosinophilic infiltration.",
+        "B. Acute tubular necrosis due to drug accumulation in proximal tubule cells.",
+        "C. Glomerulonephritis with subendothelial immune complex deposition.",
+        "D. Renal papillary necrosis with ischemic calcifications."
+      ]
+    },
+    {
+      "question": "A sputum culture from a patient with a severe nosocomial pneumonia isolates a strain of Pseudomonas aeruginosa that is highly resistant to Gentamicin via plasmid-mediated aminoglycoside-modifying enzymes. Which of the following aminoglycosides should be considered due to its unique structural engineering that resists these specific inactivating enzymes?",
+      "answer": "C",
+      "options": [
+        "A. Kanamycin",
+        "B. Streptomycin",
+        "C. Amikacin",
+        "D. Paromomycin"
+      ]
+    },
+    {
+      "question": "A medical student is evaluating the pharmacokinetic profile of Gentamicin. She notes that the drug is highly water-soluble, highly polar, and carries a strong positive charge (NH2+). Based on these properties, which of the following statements regarding its distribution is entirely correct?",
+      "answer": "C",
+      "options": [
+        "A. It rapidly crosses the blood-brain barrier during active states of cerebral inflammation.",
+        "B. It has a very large volume of distribution (Vd) because it localizes heavily in adipose tissues.",
+        "C. It does not penetrate the blood-brain barrier effectively but safely crosses into breast milk without risking oral toxicity to the infant.",
+        "D. It binds extensively to plasma albumin, requiring dosage shifts in hypoalbuminemia."
+      ]
+    },
+    {
+      "question": "A 55-year-old male with severe sepsis from a urinary tract infection caused by extended-spectrum beta-lactamase (ESBL)-producing E. coli is started on intravenous gentamicin. Which of the following best describes the mechanism of action of gentamicin?",
+      "answer": "B",
+      "options": [
+        "A. Reversibly binds to the 50S ribosomal subunit, blocking peptide bond formation",
+        "B. Irreversibly binds to the 30S ribosomal subunit, causing misreading of mRNA and inhibition of initiation complex formation",
+        "C. Binds to the 30S subunit and prevents tRNA binding, bacteriostatic effect",
+        "D. Inhibits DNA gyrase and topoisomerase IV",
+        "E. Blocks cell wall synthesis by inhibiting transpeptidase"
+      ]
+    },
+    {
+      "question": "A 68-year-old female with Pseudomonas aeruginosa pneumonia is treated with intravenous tobramycin. Her baseline serum creatinine is 0.9 mg/dL. On day 5, her creatinine rises to 2.2 mg/dL, and her urine output decreases. Which of the following is the primary mechanism of aminoglycoside-induced nephrotoxicity?",
+      "answer": "C",
+      "options": [
+        "A. Acute interstitial nephritis mediated by hypersensitivity",
+        "B. Glomerulonephritis due to immune complex deposition",
+        "C. Acute tubular necrosis – aminoglycosides concentrate in the renal cortex and proximal tubule cells",
+        "D. Obstructive nephropathy from crystalluria",
+        "E. Papillary necrosis from vasoconstriction"
+      ]
+    },
+    {
+      "question": "A 32-year-old male with Enterococcus faecalis endocarditis is being treated with intravenous ampicillin and gentamicin. The nurse prepares both medications in the same IV bag and infuses them together. Which of the following drug interactions is most likely to occur?",
+      "answer": "D",
+      "options": [
+        "A. Synergistic nephrotoxicity",
+        "B. Antagonism of antibacterial effect due to tetracycline-like effects",
+        "C. Precipitation of a fatal arrhythmia",
+        "D. Physical incompatibility – penicillins (acidic) and aminoglycosides (alkaline) inactivate each other in the same syringe",
+        "E. Enhanced ototoxicity due to loop diuretic effect"
+      ]
+    },
+    {
+      "question": "A 45-year-old female with a complicated intra-abdominal infection is started on intravenous gentamicin. She also receives furosemide for volume overload. On day 3, she complains of tinnitus and a sensation of fullness in her ears. Audiometry reveals high-frequency hearing loss. Which drug interaction has most likely contributed to this adverse effect?",
+      "answer": "C",
+      "options": [
+        "A. Gentamicin and furosemide compete for protein binding sites",
+        "B. Furosemide increases renal excretion of gentamicin, requiring higher doses",
+        "C. Loop diuretics (furosemide) potentiate aminoglycoside-induced ototoxicity, which may be irreversible",
+        "D. Gentamicin inhibits the diuretic effect of furosemide, leading to fluid overload",
+        "E. Furosemide displaces gentamicin from tissue binding sites, increasing serum levels"
+      ]
+    },
+    {
+      "question": "A 28-year-old female with myasthenia gravis undergoes emergency surgery for a perforated appendix. Postoperatively, she is started on intravenous gentamicin for peritonitis. Several hours after the first dose, she develops severe muscle weakness and respiratory distress. Which of the following best explains this reaction?",
+      "answer": "B",
+      "options": [
+        "A. Anaphylactic reaction to gentamicin",
+        "B. Neuromuscular blockade – aminoglycosides inhibit acetylcholine release from presynaptic terminals, worsening myasthenia",
+        "C. Direct nephrotoxicity causing electrolyte imbalance",
+        "D. Central nervous system depression from crossing the blood-brain barrier",
+        "E. Hemolytic anemia from immune-mediated destruction"
+      ]
+    },
+    {
+      "question": "A 70-year-old male with liver cirrhosis and hepatic encephalopathy is prescribed oral neomycin to reduce intestinal ammonia-producing bacteria. He has no signs of infection. Which of the following is the primary reason neomycin is given orally rather than intravenously for this indication?",
+      "answer": "E",
+      "options": [
+        "A. Neomycin is only active against Gram-positive bacteria when given parenterally",
+        "B. Oral neomycin has better bioavailability for systemic effects",
+        "C. Neomycin is metabolized in the liver to an active form",
+        "D. Intravenous neomycin causes severe red man syndrome",
+        "E. Neomycin is highly polar and not absorbed orally, acting locally in the gut; systemic use is too nephrotoxic"
+      ]
+    },
+    {
+      "question": "A 25-year-old male is diagnosed with gonorrhea caused by a penicillinase-producing Neisseria gonorrhoeae strain. He has a severe anaphylactic reaction to penicillin. Which aminoglycoside-related agent is indicated as an alternative single-dose treatment for gonorrhea in penicillin-allergic patients?",
+      "answer": "A",
+      "options": [
+        "A. Spectinomycin",
+        "B. Gentamicin",
+        "C. Tobramycin",
+        "D. Amikacin",
+        "E. Neomycin"
+      ]
+    },
+    {
+      "question": "A 60-year-old female with Pseudomonas aeruginosa bacteremia is started on intravenous tobramycin. The pharmacist recommends once-daily (extended interval) dosing rather than divided doses. Which of the following pharmacological properties of aminoglycosides supports once-daily dosing?",
+      "answer": "C",
+      "options": [
+        "A. Long half-life of 24 hours",
+        "B. Time-dependent killing with no post-antibiotic effect",
+        "C. Concentration-dependent killing and a significant post-antibiotic effect (PAE) – a single large dose maximizes efficacy and may reduce toxicity",
+        "D. Rapid renal excretion with no accumulation",
+        "E. High oral bioavailability allowing intermittent dosing"
+      ]
+    },
+    {
+      "question": "A 52-year-old male with a multidrug-resistant Klebsiella pneumoniae urinary tract infection fails treatment with gentamicin. The isolate is resistant to gentamicin due to plasmid-encoded modifying enzymes. Which of the following aminoglycosides is least vulnerable to these inactivating enzymes and should be considered?",
+      "answer": "D",
+      "options": [
+        "A. Tobramycin",
+        "B. Neomycin",
+        "C. Streptomycin",
+        "D. Amikacin",
+        "E. Spectinomycin"
+      ]
+    },
+    {
+      "question": "A 35-year-old female with cystic fibrosis and chronic Pseudomonas aeruginosa lung infection is treated with intravenous tobramycin. Which of the following statements correctly compares tobramycin to gentamicin?",
+      "answer": "A",
+      "options": [
+        "A. Tobramycin is more effective against Pseudomonas aeruginosa and is less nephrotoxic than gentamicin",
+        "B. Tobramycin has no activity against Pseudomonas and is used only for Gram-positive infections",
+        "C. Tobramycin is more nephrotoxic than gentamicin and requires strict dose adjustment",
+        "D. Tobramycin is administered orally and achieves high lung concentrations",
+        "E. Tobramycin is exclusively used for tuberculosis"
+      ]
+    },
+    {
+      "question": "A 48-year-old male with septic shock is started on intravenous gentamicin. His baseline renal function is normal. According to the lecture, after how many days of therapy should a kidney function test be performed to monitor for nephrotoxicity?",
+      "answer": "C",
+      "options": [
+        "A. After the first dose",
+        "B. Daily from day 1",
+        "C. After the 3rd day",
+        "D. After 7 days",
+        "E. Only at the end of therapy"
+      ]
+    },
+    {
+      "question": "A 30-year-old female with intestinal amebiasis has failed metronidazole therapy. She is not pregnant. Which oral aminoglycoside can be used as an alternative treatment for intestinal amebiasis, but is very ototoxic and can be absorbed from raw surfaces?",
+      "answer": "D",
+      "options": [
+        "A. Neomycin",
+        "B. Streptomycin",
+        "C. Gentamicin",
+        "D. Paromomycin",
+        "E. Spectinomycin"
+      ]
+    },
+    {
+      "question": "A 22-year-old male undergoes abdominal surgery and is given rocuronium (a non-depolarizing neuromuscular blocker) for muscle relaxation. Postoperatively, he develops a wound infection and is started on intravenous gentamicin. Which of the following drug interactions is of greatest concern?",
+      "answer": "C",
+      "options": [
+        "A. Gentamicin reduces the effect of rocuronium, requiring higher doses",
+        "B. Rocuronium increases gentamicin nephrotoxicity",
+        "C. Aminoglycosides increase the effect of non-depolarizing neuromuscular blockers, leading to prolonged paralysis",
+        "D. The combination causes severe ototoxicity",
+        "E. No significant interaction exists"
+      ]
+    },
+    {
+      "question": "A 65-year-old male with tuberculosis is started on a second-line regimen that includes streptomycin. Which of the following is a correct statement about streptomycin?",
+      "answer": "E",
+      "options": [
+        "A. Streptomycin is the first-line oral agent for all forms of tuberculosis",
+        "B. Streptomycin is active against anaerobes and is used for intra-abdominal infections",
+        "C. Streptomycin has no role in tuberculosis treatment",
+        "D. Streptomycin is less nephrotoxic than gentamicin and can be given without monitoring",
+        "E. Streptomycin is used as a second-line agent for tuberculosis and is active against Mycobacterium tuberculosis"
+      ]
+    },
+    {
+      "question": "A 55-year-old male with a urinary tract infection caused by a gentamicin-resistant Enterobacterales isolate is treated with plazomicin. Which of the following statements about plazomicin is correct based on the lecture?",
+      "answer": "B",
+      "options": [
+        "A. Plazomicin is an oral aminoglycoside used for intestinal decontamination",
+        "B. Plazomicin is the newest aminoglycoside developed to have improved activity against resistant Enterobacterales",
+        "C. Plazomicin is a beta-lactamase inhibitor combined with piperacillin",
+        "D. Plazomicin is a tetracycline derivative with MRSA activity",
+        "E. Plazomicin is primarily used as a topical agent"
       ]}
     ]
   }
