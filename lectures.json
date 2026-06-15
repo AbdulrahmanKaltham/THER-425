@@ -4712,7 +4712,7 @@
 
 {
   "name": "Miscellaneous new antimicrobial & Uses of Antimicrobials in Different Clinical Situations",
-  "activeRecallQuestions": [
+  "activeRecall": [
     {
       "question": "Which structural modification allows Plazomicin to retain activity against Enterobacterales that are resistant to Amikacin and Gentamicin?",
       "answer": "It features a hydroxyethyl-piperidinedecanoic acid / specific side-chain modification that sterically blocks inactivation by major Aminoglycoside-Modifying Enzymes (AMEs)."
@@ -4793,91 +4793,91 @@
       "question": "Why does oral Omadacycline require a strict 4-to-6-hour pre-dose fasting window?",
       "answer": "To avoid chelation and significant reduction in bioavailability (>40-60% decrease) caused by any food or dairy interaction."
     },
-{
-"question": "Which carbapenem lacks clinical activity against Pseudomonas aeruginosa?",
-"answer": "Ertapenem."
-},
-{
-"question": "Why is Ciprofloxacin inappropriate as monotherapy for community-acquired pneumonia?",
-"answer": "It lacks sufficient Gram-positive coverage, specifically against Streptococcus pneumoniae."
-},
-{
-"question": "What is the classic mechanism of action of aminoglycosides, and why are they ineffective against obligate anaerobes?",
-"answer": "They bind to the 30S ribosomal subunit to inhibit protein synthesis. Their transport into the bacterial cell requires an oxygen-dependent active transport mechanism, rendering them completely ineffective against anaerobes."
-},
-{
-"question": "A neonate requires empiric treatment for bacterial meningitis. Why is Ceftriaxone contraindicated? What should be used instead?",
-"answer": "Ceftriaxone displaces bilirubin from albumin (causing kernicterus) and precipitates with calcium-containing solutions. Cefotaxime should be used instead."
-},
-{
-"question": "Which antibiotic class undergoes chelation and decreased oral bioavailability when co-administered with antacids or iron supplements?",
-"answer": "Fluoroquinolones (and Tetracyclines)."
-},
-{
-"question": "What specific adjustment must be made to a Vancomycin regimen if the patient's serum creatinine begins to climb rapidly?",
-"answer": "The dosing interval must be prolonged (or the dose decreased) to prevent drug accumulation and worsening nephrotoxicity."
-},
-{
-"question": "What life-threatening neurological side effect is associated with high doses of Cefepime, especially in patients with unadjusted renal impairment?",
-"answer": "Encephalopathy and non-convulsive status epilepticus."
-},
-{
-"question": "Why must Dexamethasone be administered before or simultaneously with the first dose of antibiotics in adult pneumococcal meningitis?",
-"answer": "To reduce the subarachnoid space inflammatory response caused by beta-lactam-induced bacterial lysis, thereby reducing neurological sequelae such as sensorineural hearing loss."
-},
-{
-"question": "Which antibiotic class carries a black box warning for tendonitis, tendon rupture, and aortic dissection?",
-"answer": "Fluoroquinolones."
-},
-{
-"question": "If a patient requires MRSA coverage but is currently taking a selective serotonin reuptake inhibitor (SSRI) for depression, which antibiotic must be avoided to prevent Serotonin Syndrome?",
-"answer": "Linezolid (due to its structural mechanism as a weak, reversible Monoamine Oxidase Inhibitor)."
-},
-{
-"question": "What is the preferred oral agent for treating a patient with mild-to-moderate Clostridioides difficile infection?",
-"answer": "Oral Vancomycin or oral Fidaxomicin."
-},
-{
-"question": "Why is Nitrofurantoin contraindicated in a patient with a creatinine clearance (CrCl) <30 mL/min?",
-"answer": "The drug fails to achieve effective therapeutic concentrations in the urinary tract/bladder and can accumulate systemically, increasing the risk of peripheral neuropathy."
-},
-{
-"question": "Which cephalosporin generation is the only one that possesses direct bactericidal activity against Methicillin-Resistant Staphylococcus aureus (MRSA)?",
-"answer": "5th Generation (Cetaroline)."
-},
-{
-"question": "What specific cardiac toxicity is shared between Macrolides and Fluoroquinolones?",
-"answer": "QTc Interval Prolongation (Risk of Torsades de Pointes)."
-},
-{
-"question": "Why does Vancomycin require serum trough or AUC monitoring, whereas beta-lactams generally do not?",
-"answer": "Vancomycin exhibits a narrow therapeutic index with clear concentration-dependent nephrotoxicity thresholds, whereas beta-lactams have a wide therapeutic window."
-},
-{
-"question": "A patient develops Red Man Syndrome during a rapid Vancomycin infusion. What is the immediate correct management strategy?",
-"answer": "Slow the infusion rate and administer an antihistamine. Do not permanently discontinue the drug."
-},
-{
-"question": "Which penicillin derivative does not require dosage adjustments in renal impairment?",
-"answer": "Nafcillin (and Oxacillin), due to primary hepatic clearance."
-},
-{
-"question": "What is the drug of choice for treating a patient with a confirmed Extended-Spectrum Beta-Lactamase (ESBL)-producing E. coli bacteremia?",
-"answer": "A Carbapenem (e.g., Meropenem or Imipenem)."
-},
-{
-"question": "Which target pathogen justifies adding Ampicillin to the empiric meningitis regimen of a 67-year-old patient?",
-"answer": "Listeria monocytogenes."
-},
-{
-"question": "Why is Daptomycin completely ineffective for treating MRSA community-acquired pneumonia?",
-"answer": "It is bound and inactivated by pulmonary surfactant."
-}
-],
-  "caseBasedMCQs": [
+    {
+      "question": "Which carbapenem lacks clinical activity against Pseudomonas aeruginosa?",
+      "answer": "Ertapenem."
+    },
+    {
+      "question": "Why is Ciprofloxacin inappropriate as monotherapy for community-acquired pneumonia?",
+      "answer": "It lacks sufficient Gram-positive coverage, specifically against Streptococcus pneumoniae."
+    },
+    {
+      "question": "What is the classic mechanism of action of aminoglycosides, and why are they ineffective against obligate anaerobes?",
+      "answer": "They bind to the 30S ribosomal subunit to inhibit protein synthesis. Their transport into the bacterial cell requires an oxygen-dependent active transport mechanism, rendering them completely ineffective against anaerobes."
+    },
+    {
+      "question": "A neonate requires empiric treatment for bacterial meningitis. Why is Ceftriaxone contraindicated? What should be used instead?",
+      "answer": "Ceftriaxone displaces bilirubin from albumin (causing kernicterus) and precipitates with calcium-containing solutions. Cefotaxime should be used instead."
+    },
+    {
+      "question": "Which antibiotic class undergoes chelation and decreased oral bioavailability when co-administered with antacids or iron supplements?",
+      "answer": "Fluoroquinolones (and Tetracyclines)."
+    },
+    {
+      "question": "What specific adjustment must be made to a Vancomycin regimen if the patient's serum creatinine begins to climb rapidly?",
+      "answer": "The dosing interval must be prolonged (or the dose decreased) to prevent drug accumulation and worsening nephrotoxicity."
+    },
+    {
+      "question": "What life-threatening neurological side effect is associated with high doses of Cefepime, especially in patients with unadjusted renal impairment?",
+      "answer": "Encephalopathy and non-convulsive status epilepticus."
+    },
+    {
+      "question": "Why must Dexamethasone be administered before or simultaneously with the first dose of antibiotics in adult pneumococcal meningitis?",
+      "answer": "To reduce the subarachnoid space inflammatory response caused by beta-lactam-induced bacterial lysis, thereby reducing neurological sequelae such as sensorineural hearing loss."
+    },
+    {
+      "question": "Which antibiotic class carries a black box warning for tendonitis, tendon rupture, and aortic dissection?",
+      "answer": "Fluoroquinolones."
+    },
+    {
+      "question": "If a patient requires MRSA coverage but is currently taking a selective serotonin reuptake inhibitor (SSRI) for depression, which antibiotic must be avoided to prevent Serotonin Syndrome?",
+      "answer": "Linezolid (due to its structural mechanism as a weak, reversible Monoamine Oxidase Inhibitor)."
+    },
+    {
+      "question": "What is the preferred oral agent for treating a patient with mild-to-moderate Clostridioides difficile infection?",
+      "answer": "Oral Vancomycin or oral Fidaxomicin."
+    },
+    {
+      "question": "Why is Nitrofurantoin contraindicated in a patient with a creatinine clearance (CrCl) <30 mL/min?",
+      "answer": "The drug fails to achieve effective therapeutic concentrations in the urinary tract/bladder and can accumulate systemically, increasing the risk of peripheral neuropathy."
+    },
+    {
+      "question": "Which cephalosporin generation is the only one that possesses direct bactericidal activity against Methicillin-Resistant Staphylococcus aureus (MRSA)?",
+      "answer": "5th Generation (Ceftaroline)."
+    },
+    {
+      "question": "What specific cardiac toxicity is shared between Macrolides and Fluoroquinolones?",
+      "answer": "QTc Interval Prolongation (Risk of Torsades de Pointes)."
+    },
+    {
+      "question": "Why does Vancomycin require serum trough or AUC monitoring, whereas beta-lactams generally do not?",
+      "answer": "Vancomycin exhibits a narrow therapeutic index with clear concentration-dependent nephrotoxicity thresholds, whereas beta-lactams have a wide therapeutic window."
+    },
+    {
+      "question": "A patient develops Red Man Syndrome during a rapid Vancomycin infusion. What is the immediate correct management strategy?",
+      "answer": "Slow the infusion rate and administer an antihistamine. Do not permanently discontinue the drug."
+    },
+    {
+      "question": "Which penicillin derivative does not require dosage adjustments in renal impairment?",
+      "answer": "Nafcillin (and Oxacillin), due to primary hepatic clearance."
+    },
+    {
+      "question": "What is the drug of choice for treating a patient with a confirmed Extended-Spectrum Beta-Lactamase (ESBL)-producing E. coli bacteremia?",
+      "answer": "A Carbapenem (e.g., Meropenem or Imipenem)."
+    },
+    {
+      "question": "Which target pathogen justifies adding Ampicillin to the empiric meningitis regimen of a 67-year-old patient?",
+      "answer": "Listeria monocytogenes."
+    },
+    {
+      "question": "Why is Daptomycin completely ineffective for treating MRSA community-acquired pneumonia?",
+      "answer": "It is bound and inactivated by pulmonary surfactant."
+    }
+  ],
+  "mcqs": [
     {
       "question": "A 44-year-old male is admitted with a severe, deep-tissue MRSA abscess of the right lower extremity. He has a history of major compliance issues and explicitly refuses admission for a 10-day course of continuous IV therapy. He also has a history of chronic kidney disease (Baseline CrCl = 45 mL/min). The medical team decides to administer a single-dose lipoglycopeptide that will cover his entire treatment course. Which of the following is true regarding the chosen therapy?",
-      "answer": "B. If Oritavancin is selected, no dosage adjustment is required for his mild-to-moderate renal impairment.",
+      "answer": "B",
       "options": [
         "A. The drug chosen must be Tedizolid because it requires only 6 days of therapy.",
         "B. If Oritavancin is selected, no dosage adjustment is required for his mild-to-moderate renal impairment.",
@@ -4887,7 +4887,7 @@
     },
     {
       "question": "A 62-year-old female is being treated empirically for a complicated intra-abdominal infection (cIAI) following a bowel perforation. Peritoneal fluid cultures return positive for an Enterobacterales strain producing Klebsiella pneumoniae Carbapenemase (KPC) that is highly resistant to Meropenem. The infectious disease fellow suggests starting Eravacycline. Which of the following pathogens would NOT be covered by this modification to the regimen?",
-      "answer": "C. Pseudomonas aeruginosa",
+      "answer": "C",
       "options": [
         "A. Acinetobacter baumannii",
         "B. Bacteroides fragilis",
@@ -4897,7 +4897,7 @@
     },
     {
       "question": "A 35-year-old female on hemodialysis presents with a severe complicated urinary tract infection (cUTI). Cultures grow Escherichia coli positive for multiple aminoglycoside-modifying enzymes, rendering it resistant to Gentamicin and Tobramycin. The attending physician wants to use Plazomicin. What resistance mechanism would completely invalidate the use of Plazomicin in this clinical case?",
-      "answer": "A. Production of 16S rRNA methyltransferases",
+      "answer": "A",
       "options": [
         "A. Production of 16S rRNA methyltransferases",
         "B. Upregulation of Tet(M) ribosomal protection proteins",
@@ -4907,7 +4907,7 @@
     },
     {
       "question": "A 29-year-old male with a history of severe major depressive disorder managed with Sertraline (an SSRI) develops a severe skin and soft tissue infection. Tissue culture confirms Linezolid-resistant MRSA. The team chooses Tedizolid over Linezolid. What is the pharmacological basis for this preference?",
-      "answer": "C. Tedizolid has negligible monoamine oxidase (MAO) inhibition, minimizing Serotonin Syndrome risks.",
+      "answer": "C",
       "options": [
         "A. Tedizolid is an absolute bactericidal agent that does not interact with host cell structures.",
         "B. Tedizolid possesses an enhanced safety profile due to lower relative potency.",
@@ -4916,8 +4916,8 @@
       ]
     },
     {
-      "question": "A 73-year-old inpatient develops severe diarrhea, abdominal pain, and leukocytosis (WBC = 18,000/\u03bcL). PCR testing confirms Clostridioides difficile. The patient has a history of a previous recurrence of CDAD two weeks ago after completing oral Vancomycin. Which agent should be initiated to minimize the risk of yet another recurrence?",
-      "answer": "C. Fidaxomicin",
+      "question": "A 73-year-old inpatient develops severe diarrhea, abdominal pain, and leukocytosis (WBC = 18,000/μL). PCR testing confirms Clostridioides difficile. The patient has a history of a previous recurrence of CDAD two weeks ago after completing oral Vancomycin. Which agent should be initiated to minimize the risk of yet another recurrence?",
+      "answer": "C",
       "options": [
         "A. Lefamulin",
         "B. Plazomicin",
@@ -4927,7 +4927,7 @@
     },
     {
       "question": "A 50-year-old patient receives a single IV dose of Oritavancin for an MRSA wound infection. Two days later, they present to the emergency department with acute chest pain and are suspected of having a pulmonary embolism. The physician orders an emergency aPTT and PT/INR, which return as critically high (>140 seconds and 5.2, respectively). The patient shows no signs of active bleeding or hematoma. What is the most appropriate interpretation of these findings?",
-      "answer": "B. The laboratory values are a known artifact caused by Oritavancin's interaction with assay reagents.",
+      "answer": "B",
       "options": [
         "A. The patient has developed an immune-mediated coagulopathy triggered by the lipoglycopeptide.",
         "B. The laboratory values are a known artifact caused by Oritavancin's interaction with assay reagents.",
@@ -4937,7 +4937,7 @@
     },
     {
       "question": "A 38-year-old female presents with severe Community-Acquired Bacterial Pneumonia (CABP). She has a past medical history of prolonged QT syndrome. Which of the following newly approved agents is absolutely contraindicated in this patient due to its direct risk of worsening cardiac conduction delays?",
-      "answer": "D. Lefamulin",
+      "answer": "D",
       "options": [
         "A. Omadacycline",
         "B. Plazomicin",
@@ -4947,7 +4947,7 @@
     },
     {
       "question": "A medical student is evaluating the pharmacokinetic profile of Omadacycline. She notes that the oral formulation has a unique caveat regarding administration. Which instruction should be given to the patient to ensure appropriate drug exposure?",
-      "answer": "B. \"Fast for 6 hours before and do not eat food or dairy for 4 hours after taking this medication.\"",
+      "answer": "B",
       "options": [
         "A. \"Take this medication immediately with a large glass of whole milk.\"",
         "B. \"Fast for 6 hours before and do not eat food or dairy for 4 hours after taking this medication.\"",
@@ -4957,7 +4957,7 @@
     },
     {
       "question": "An ICU patient is being treated for a severe, pan-resistant Acinetobacter baumannii ventilator-associated pneumonia. The strain is resistant to Carbapenems and Aminoglycosides. Which of the following tetracycline derivatives exhibits synthetic structural adaptations designed to withstand both efflux pumps and ribosomal protection proteins, making it a viable consideration for this infection?",
-      "answer": "A. Eravacycline",
+      "answer": "A",
       "options": [
         "A. Eravacycline",
         "B. Dalbavancin",
@@ -4967,7 +4967,7 @@
     },
     {
       "question": "A 49-year-old male is undergoing treatment for a complicated UTI caused by an extended-spectrum beta-lactamase (ESBL) producing Klebsiella pneumoniae. He receives Plazomicin therapy. Three days into treatment, he complains of tinnitus and a steady reduction in urine output. Which of the following is the most appropriate clinical action?",
-      "answer": "B. Discontinue Plazomicin immediately, assess serum creatinine, and check drug trough levels.",
+      "answer": "B",
       "options": [
         "A. Reassure the patient that these are expected, benign side effects that resolve without adjustments.",
         "B. Discontinue Plazomicin immediately, assess serum creatinine, and check drug trough levels.",
@@ -4976,107 +4976,107 @@
       ]
     },
     {
-"question": "A 68-year-old male is admitted to the medical floor with a fever of 38.9°C (102°F), productive cough with rust-colored sputum, and dyspnea. His past medical history is significant for severe chronic kidney disease (eGFR = 22 mL/min/1.73 m²) and chronic plaque psoriasis. A chest X-ray confirms right lower lobe lobar consolidation. He has a known severe anaphylactic allergy to penicillin (developed bronchospasm and angioedema 2 years ago). Which of the following is the most appropriate empiric antimicrobial regimen for this patient?",
-"answer": "C. Moxifloxacin",
-"options": [
-"A. Ceftriaxone + Azithromycin",
-"B. Levofloxacin",
-"C. Moxifloxacin",
-"D. Ciprofloxacin",
-"E. Piperacillin/Tazobactam"
-]
-},
-{
-"question": "A 23-year-old female college student presents to the emergency department with a 12-hour history of severe headache, photophobia, high fever, and neck stiffness. Physical examination reveals a positive Brudzinski sign and petechial lesions on her lower extremities. A lumbar puncture is performed, and cerebrospinal fluid (CSF) analysis demonstrates elevated opening pressure, elevated neutrophils, decreased glucose, and elevated protein. Gram stain reveals Gram-negative diplococci. While awaiting definitive culture results, which of the following is the most vital clinical administration principle regarding empirical pharmacotherapy?",
-"answer": "C. Administer IV Dexamethasone prior to or concurrently with the first dose of IV Ceftriaxone and Vancomycin.",
-"options": [
-"A. Administer IV Vancomycin alone immediately to avoid antibiotic-induced endotoxin release.",
-"B. Wait for final culture and sensitivity reports before starting antibiotics to prevent masking pathogens.",
-"C. Administer IV Dexamethasone prior to or concurrently with the first dose of IV Ceftriaxone and Vancomycin.",
-"D. Administer IV Ceftriaxone immediately; Dexamethasone is strictly contraindicated in Gram-negative meningococcal cases."
-]
-},
-{
-"question": "A 54-year-old male is hospitalized for a complicated intra-abdominal abscess following a perforated diverticulum. She undergoes surgical debridement and is placed on empiric Broad-spectrum antimicrobial therapy including Imipenem/Cilastatin. Her past medical history is remarkable for focal epilepsy, managed stably with Valproic acid for the last 5 years. On day 3 of therapy, the patient experiences a generalized tonic-clonic seizure. What is the primary pharmacological mechanism behind this complication?",
-"answer": "C. Carbapenems drastically lower serum concentrations of Valproic acid.",
-"options": [
-"A. Cilastatin directly blocks GABA-A receptors in the motor cortex.",
-"B. Imipenem undergoes toxic degradation into an unmonitored pro-convulsant metabolite in the liver.",
-"C. Carbapenems drastically lower serum concentrations of Valproic acid.",
-"D. The intra-abdominal infection caused secondary hypernatremia, lowering the seizure threshold."
-]
-},
-{
-"question": "A 31-year-old pregnant woman in her 34th week of gestation presents with acute onset of painful urination, urinary urgency, and suprapubic pain. She denies back pain, fever, nausea, or vomiting. Urinalysis reveals positive leukocyte esterase, positive nitrites, and >50 WBCs/HPF. Urine culture grows Escherichia coli (>10^5 CFU/mL) sensitive to all standard agents. Which of the following antimicrobial choices is contraindicated in this patient at this stage of her pregnancy?",
-"answer": "C. Trimethoprim-Sulfamethoxazole (TMP-SMX)",
-"options": [
-"A. Amoxicillin",
-"B. Nitrofurantoin",
-"C. Trimethoprim-Sulfamethoxazole (TMP-SMX)",
-"D. Cephalexin"
-]
-},
-{
-"question": "An 82-year-old nursing home resident with a history of severe dementia and persistent atrial fibrillation managed with Amiodarone is diagnosed with a severe lower urinary tract infection. Her baseline electrocardiogram (ECG) shows a corrected QTc interval of 478 ms (prolonged). Due to high local rates of resistance to beta-lactams, the team wants to select an agent with optimal urinary tract penetration. Which of the following antibiotics must be strictly avoided due to an additive risk of life-threatening cardiac arrhythmias?",
-"answer": "A. Ciprofloxacin",
-"options": [
-"A. Ciprofloxacin",
-"B. Fosfomycin",
-"C. Nitrofurantoin",
-"D. Amoxicillin"
-]
-},
-{
-"question": "A 45-year-old male with a history of intravenous drug use is admitted with right-sided infective endocarditis caused by Methicillin-Resistant Staphylococcus aureus (MRSA). He is started on high-dose intravenous Vancomycin therapy. After 4 days of treatment, his serum creatinine rises from a baseline of 0.9 mg/dL to 2.1 mg/dL. The clinical team decides to switch his MRSA coverage to an alternative agent that does not accumulate or worsen renal function, but notes he has a history of MRSA lung involvement as well. Which of the following drugs is completely inappropriate due to being inactivated by pulmonary structures?",
-"answer": "B. Daptomycin",
-"options": [
-"A. Linezolid",
-"B. Daptomycin",
-"C. Ceftaroline",
-"D. Vancomycin"
-]
-},
-{
-"question": "A 54-year-old male is undergoing an elective total hip arthroplasty. The orthopedic surgical team administers an intravenous antibiotic 30 minutes prior to the first skin incision for surgical site prophylaxis. The patient has no known drug allergies. Which of the following represents the optimal first-line agent for this indication, and what is its primary mechanism?",
-"answer": "B. Cefazolin; inhibition of cell wall synthesis via binding to PBPs.",
-"options": [
-"A. Vancomycin; binding to D-Ala-D-Ala cell wall precursors.",
-"B. Cefazolin; inhibition of cell wall synthesis via binding to PBPs.",
-"C. Clindamycin; binding to the 50S ribosomal subunit.",
-"D. Cefepime; broad-spectrum inhibition of Gram-negative outer membrane porins."
-]
-},
-{
-"question": "A 61-year-old male with a history of severe peripheral vascular disease is hospitalized with a deep, foul-smelling diabetic foot ulcer with associated crepitus and gas on tissue X-ray. The team initiates empiric therapy with Piperacillin/Tazobactam. Cultures return positive for Bacteroides fragilis and Peptostreptococcus. Tazobactam is added to the penicillin formulation primarily to achieve which pharmacological outcome?",
-"answer": "C. Protect piperacillin from hydrolysis by binding irreversibly to bacterial beta-lactamases.",
-"options": [
-"A. Extend the half-life of piperacillin by inhibiting renal tubular secretion.",
-"B. Increase the penetration of piperacillin through the thick Gram-positive cell wall.",
-"C. Protect piperacillin from hydrolysis by binding irreversibly to bacterial beta-lactamases.",
-"D. Provide direct, independent bactericidal activity against obligate anaerobic organisms."
-]
-},
-{
-"question": "A 39-year-old male with HIV (CD4 = 110 cells/µL) presents with a 2-week history of progressive dry cough, low-grade fever, and exertional hypoxemia. A silver stain of induced sputum confirms Pneumocystis jirovecii pneumonia (PJP). He is started on high-dose Trimethoprim-Sulfamethoxazole (TMP-SMX). Which of the following sets of laboratory abnormalities is most likely to be induced directly by this therapy?",
-"answer": "B. Hyperkalemia and Serum Creatinine elevation without a change in true GFR",
-"options": [
-"A. Hypokalemia and Hypernatremia",
-"B. Hyperkalemia and Serum Creatinine elevation without a change in true GFR",
-"C. Hypoglycemia and Hypobilirubinemia",
-"D. Hypouricemia and Neutrophilia"
-]
-},
-{
-"question": "An ICU patient is being treated for a severe healthcare-associated infection with a combination of Cefepime and an Aminoglycoside (Tobramycin). Which of the following specific anatomical sites is the primary location for aminoglycoside-induced accumulation and toxic cellular damage?",
-"answer": "A. Outer hair cells of the organ of Corti and renal proximal tubular epithelial cells.",
-"options": [
-"A. Outer hair cells of the organ of Corti and renal proximal tubular epithelial cells.",
-"B. Glomerular basement membrane endothelial cells.",
-"C. Hepatic canaliculi leading to cholestatic jaundice.",
-"D. Distal convoluted tubule principal cells."
-]
-},
-{
+      "question": "A 68-year-old male is admitted to the medical floor with a fever of 38.9°C (102°F), productive cough with rust-colored sputum, and dyspnea. His past medical history is significant for severe chronic kidney disease (eGFR = 22 mL/min/1.73 m²) and chronic plaque psoriasis. A chest X-ray confirms right lower lobe lobar consolidation. He has a known severe anaphylactic allergy to penicillin (developed bronchospasm and angioedema 2 years ago). Which of the following is the most appropriate empiric antimicrobial regimen for this patient?",
+      "answer": "C",
+      "options": [
+        "A. Ceftriaxone + Azithromycin",
+        "B. Levofloxacin",
+        "C. Moxifloxacin",
+        "D. Ciprofloxacin",
+        "E. Piperacillin/Tazobactam"
+      ]
+    },
+    {
+      "question": "A 23-year-old female college student presents to the emergency department with a 12-hour history of severe headache, photophobia, high fever, and neck stiffness. Physical examination reveals a positive Brudzinski sign and petechial lesions on her lower extremities. A lumbar puncture is performed, and cerebrospinal fluid (CSF) analysis demonstrates elevated opening pressure, elevated neutrophils, decreased glucose, and elevated protein. Gram stain reveals Gram-negative diplococci. While awaiting definitive culture results, which of the following is the most vital clinical administration principle regarding empirical pharmacotherapy?",
+      "answer": "C",
+      "options": [
+        "A. Administer IV Vancomycin alone immediately to avoid antibiotic-induced endotoxin release.",
+        "B. Wait for final culture and sensitivity reports before starting antibiotics to prevent masking pathogens.",
+        "C. Administer IV Dexamethasone prior to or concurrently with the first dose of IV Ceftriaxone and Vancomycin.",
+        "D. Administer IV Ceftriaxone immediately; Dexamethasone is strictly contraindicated in Gram-negative meningococcal cases."
+      ]
+    },
+    {
+      "question": "A 54-year-old male is hospitalized for a complicated intra-abdominal abscess following a perforated diverticulum. He undergoes surgical debridement and is placed on empiric Broad-spectrum antimicrobial therapy including Imipenem/Cilastatin. His past medical history is remarkable for focal epilepsy, managed stably with Valproic acid for the last 5 years. On day 3 of therapy, the patient experiences a generalized tonic-clonic seizure. What is the primary pharmacological mechanism behind this complication?",
+      "answer": "C",
+      "options": [
+        "A. Cilastatin directly blocks GABA-A receptors in the motor cortex.",
+        "B. Imipenem undergoes toxic degradation into an unmonitored pro-convulsant metabolite in the liver.",
+        "C. Carbapenems drastically lower serum concentrations of Valproic acid.",
+        "D. The intra-abdominal infection caused secondary hypernatremia, lowering the seizure threshold."
+      ]
+    },
+    {
+      "question": "A 31-year-old pregnant woman in her 34th week of gestation presents with acute onset of painful urination, urinary urgency, and suprapubic pain. She denies back pain, fever, nausea, or vomiting. Urinalysis reveals positive leukocyte esterase, positive nitrites, and >50 WBCs/HPF. Urine culture grows Escherichia coli (>10^5 CFU/mL) sensitive to all standard agents. Which of the following antimicrobial choices is contraindicated in this patient at this stage of her pregnancy?",
+      "answer": "C",
+      "options": [
+        "A. Amoxicillin",
+        "B. Nitrofurantoin",
+        "C. Trimethoprim-Sulfamethoxazole (TMP-SMX)",
+        "D. Cephalexin"
+      ]
+    },
+    {
+      "question": "An 82-year-old nursing home resident with a history of severe dementia and persistent atrial fibrillation managed with Amiodarone is diagnosed with a severe lower urinary tract infection. Her baseline electrocardiogram (ECG) shows a corrected QTc interval of 478 ms (prolonged). Due to high local rates of resistance to beta-lactams, the team wants to select an agent with optimal urinary tract penetration. Which of the following antibiotics must be strictly avoided due to an additive risk of life-threatening cardiac arrhythmias?",
+      "answer": "A",
+      "options": [
+        "A. Ciprofloxacin",
+        "B. Fosfomycin",
+        "C. Nitrofurantoin",
+        "D. Amoxicillin"
+      ]
+    },
+    {
+      "question": "A 45-year-old male with a history of intravenous drug use is admitted with right-sided infective endocarditis caused by Methicillin-Resistant Staphylococcus aureus (MRSA). He is started on high-dose intravenous Vancomycin therapy. After 4 days of treatment, his serum creatinine rises from a baseline of 0.9 mg/dL to 2.1 mg/dL. The clinical team decides to switch his MRSA coverage to an alternative agent that does not accumulate or worsen renal function, but notes he has a history of MRSA lung involvement as well. Which of the following drugs is completely inappropriate due to being inactivated by pulmonary structures?",
+      "answer": "B",
+      "options": [
+        "A. Linezolid",
+        "B. Daptomycin",
+        "C. Ceftaroline",
+        "D. Vancomycin"
+      ]
+    },
+    {
+      "question": "A 54-year-old male is undergoing an elective total hip arthroplasty. The orthopedic surgical team administers an intravenous antibiotic 30 minutes prior to the first skin incision for surgical site prophylaxis. The patient has no known drug allergies. Which of the following represents the optimal first-line agent for this indication, and what is its primary mechanism?",
+      "answer": "B",
+      "options": [
+        "A. Vancomycin; binding to D-Ala-D-Ala cell wall precursors.",
+        "B. Cefazolin; inhibition of cell wall synthesis via binding to PBPs.",
+        "C. Clindamycin; binding to the 50S ribosomal subunit.",
+        "D. Cefepime; broad-spectrum inhibition of Gram-negative outer membrane porins."
+      ]
+    },
+    {
+      "question": "A 61-year-old male with a history of severe peripheral vascular disease is hospitalized with a deep, foul-smelling diabetic foot ulcer with associated crepitus and gas on tissue X-ray. The team initiates empiric therapy with Piperacillin/Tazobactam. Cultures return positive for Bacteroides fragilis and Peptostreptococcus. Tazobactam is added to the penicillin formulation primarily to achieve which pharmacological outcome?",
+      "answer": "C",
+      "options": [
+        "A. Extend the half-life of piperacillin by inhibiting renal tubular secretion.",
+        "B. Increase the penetration of piperacillin through the thick Gram-positive cell wall.",
+        "C. Protect piperacillin from hydrolysis by binding irreversibly to bacterial beta-lactamases.",
+        "D. Provide direct, independent bactericidal activity against obligate anaerobic organisms."
+      ]
+    },
+    {
+      "question": "A 39-year-old male with HIV (CD4 = 110 cells/µL) presents with a 2-week history of progressive dry cough, low-grade fever, and exertional hypoxemia. A silver stain of induced sputum confirms Pneumocystis jirovecii pneumonia (PJP). He is started on high-dose Trimethoprim-Sulfamethoxazole (TMP-SMX). Which of the following sets of laboratory abnormalities is most likely to be induced directly by this therapy?",
+      "answer": "B",
+      "options": [
+        "A. Hypokalemia and Hypernatremia",
+        "B. Hyperkalemia and Serum Creatinine elevation without a change in true GFR",
+        "C. Hypoglycemia and Hypobilirubinemia",
+        "D. Hypouricemia and Neutrophilia"
+      ]
+    },
+    {
+      "question": "An ICU patient is being treated for a severe healthcare-associated infection with a combination of Cefepime and an Aminoglycoside (Tobramycin). Which of the following specific anatomical sites is the primary location for aminoglycoside-induced accumulation and toxic cellular damage?",
+      "answer": "A",
+      "options": [
+        "A. Outer hair cells of the organ of Corti and renal proximal tubular epithelial cells.",
+        "B. Glomerular basement membrane endothelial cells.",
+        "C. Hepatic canaliculi leading to cholestatic jaundice.",
+        "D. Distal convoluted tubule principal cells."
+      ]
+    },
+    {
       "question": "A 58-year-old male with diabetes and prior abdominal surgeries presents with fever (39.2°C), diffuse abdominal pain, and hypotension. CT abdomen shows a complex intra-abdominal abscess with free air. Blood cultures grow multidrug-resistant Klebsiella pneumoniae producing ESBL and carbapenemase (KPC). The infectious disease team recommends a newer IV antimicrobial dosed at 1 mg/kg every 12 hours for 14 days. On day 3, the patient develops nausea, vomiting, and watery diarrhea. On day 5, the patient's spouse reports that the patient's teeth appear discolored (grayish-brown). The patient is 58 years old, but the spouse is concerned because their 28-year-old pregnant daughter (visiting) has the same infection and has just been started on the same antibiotic. Which of the following best explains the tooth discoloration observed in the 58-year-old patient, and what is the most important precaution for the pregnant daughter?",
       "answer": "B",
       "options": [
